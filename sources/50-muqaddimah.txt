@@ -1,0 +1,1148 @@
+Ibn Khaldun, The Muqaddimah: An Introduction to History (1377)
+Translated by Franz Rosenthal (Princeton University Press, 1958)
+
+Source: Internet Archive / Traditional Hikma
+https://archive.org/details/etaoin
+
+Note: These are selected excerpts from the Muqaddimah. The full work is
+a comprehensive introduction to the study of history, sociology, economics,
+and political science. The excerpts below include:
+1. The Invocation and Foreword (Ibn Khaldun's famous discussion of history
+   as a discipline that deserves philosophical rigor)
+2. The First Prefatory Discussion (on human social organization)
+3. Chapter II excerpts (on Bedouin vs. sedentary civilization and
+   group feeling / 'asabiyyah')
+4. The famous passage on the three-generation cycle of dynasties
+
+---
+
+AUTHOR'S FOREWORD
+========================================
+
+Praised be God! He is powerful and mighty. In His hand, He holds
+royal authority and kingship. 2 His are the most beautiful names and attributes. His
+knowledge is such that nothing, be it revealed in secret whispering or (even) left
+unsaid, remains strange to Him. His power is such that nothing in heaven and upon
+earth is too much for Him or escapes Him.
+He created us from the earth as living, breathing creatures. He made us to
+settle3 on it as races and nations. From it, He provided sustenance and provisions for
+us.
+The wombs of our mothers and houses are our abode. Sustenance and food
+keep us alive. Time wears us out. Our lives' final terms, the dates of which have
+been fixed for us in the book (of destiny), claim us. But He lasts and persists. He is
+the Living One who does not die.
+Prayer and blessings upon our Lord and Master, Muhammad, the Arab4
+prophet, whom Torah and Gospel have mentioned and described;5 him for whose
+birth the world that is was (already) in labor before Sundays were following upon
+Saturdays in regular sequence and before Saturn and Behemoth had become
+separated;6 him to whose truthfulness pigeon and spider bore witness.7
+(Prayer and blessings) also upon his family and the men around him who by
+being his companions 8 and followers gained wide influence and fame and who by
+supporting him found unity while their enemies were weakened through dispersion.
+Pray, O God, for him and them, for as long as Islam shall continue to enjoy its lucky
+fortune and the frayed rope of unbelief shall remain cut! Give manifold blessings (to
+him and them)!
+
+FOREWORD
+HISTORY is a discipline widely cultivated among nations and races. It is
+eagerly sought after. The men in the street, the ordinary people, aspire to know it.
+Kings and leaders vie for it.
+Both the learned and the ignorant are able to understand it. For on the
+surface history is no more than information about political events, dynasties, and
+occurrences of the remote past, elegantly presented and spiced with proverbs. It
+serves to entertain large, crowded gatherings and brings to us an understanding of
+human affairs. (It shows) how changing conditions affected (human affairs), how
+certain dynasties came to occupy an ever wider space in the world, and how they
+settled the earth until they heard the call and their time was up.
+The inner meaning of history, on the other hand, involves speculation and an
+attempt to get at the truth, subtle explanation of the causes and origins of existing
+things, and deep knowledge of the how and why of events. (History,) therefore, is
+firmly rooted in philosophy. It deserves to be accounted a branch of (philosophy).9
+The outstanding Muslim historians made exhaustive collections of historical
+events and wrote them down in book form. But, then, persons who had no right to
+occupy themselves with history introduced into those books untrue gossip which
+they had thought up or freely invented, as well as false, discredited reports which
+they had made up or embellished. Many of their successors followed in their steps
+and passed that information on to us as they had heard it. They did not look for, or
+pay any attention to, the causes of events and conditions, nor did they eliminate or
+reject nonsensical stories.
+Little effort is being made to get at the truth. The critical eye, as a rule, is not
+sharp. Errors and unfounded assumptions are closely allied and familiar elements in
+historical information. Blind trust in tradition is an inherited trait in human beings.
+Occupation with the (scholarly) disciplines on the part of those who have no right is
+widespread. But the pasture of stupidity is unwholesome for mankind. No one can
+stand up against the authority of truth, and the evil of falsehood is to be fought with
+enlightening speculation. The reporter merely dictates and passes on (the material). It
+takes critical insight to sort out the hidden truth; it takes knowledge to lay truth bare
+and polish it so that critical insight may be applied to it.
+Many systematic historical works have been composed, and the history of
+nations and dynasties in the world has been compiled and written down. But there
+are very few (historians) who have become so well known as to be recognized as
+authorities, and who have replaced the products of their predecessors by their own
+works. They can almost be counted on the fingers of the hands; they are hardly more
+numerous than the vowels in grammatical constructions (which are just three). There
+are, for instance, Ibn Ishaq; 10 at-Tabari; 11 Ibn al-Kalbi;12 Muhammad b. 'Umar alWagidi;13 Sayf b. 'Umar al-Asadi;14 al-Mas'udi,15 and other famous (historians)
+who are distinguished from the general run (of historians) .
+It is well known to competent persons and reliable experts that the works of
+al-Masudi and al-Waqidi are suspect and objectionable in certain respects.16
+However, their works have been distinguished by universal acceptance of the
+information they contain and by adoption of their methods and their presentation of
+material. The discerning critic is his own judge as to which part of their material he
+finds spurious, and which he gives credence to. Civilization, in its (different)
+
+conditions, contains (different) elements to which historical information may be
+related and with which reports and historical materials may be checked.
+Most of the histories by these (authors) cover everything because of the
+universal geographical extension of the two earliest Islamic dynasties 17 and
+because of the very wide selection of sources of which they did or did not make use.
+Some of these authors, such as al-Mas'idi and historians of his type, gave an
+exhaustive history of the pre-Islamic dynasties and nations and of other (preIslamic) affairs in general. Some later historians, on the other hand, showed a
+tendency toward greater restriction, hesitating to be so general and comprehensive.
+They brought together the happenings of their own period and gave exhaustive
+historical information about their own part of the world. They restricted themselves
+to the history of their own dynasties and cities. This was done by Ibn Hayyan, the
+historian of Spain and the Spanish Umayyads, 18 and by Ibn ar-Raqiq, the historian
+of Ifrigiyah and the dynasty in Kairouan (al-Qayrawan). 19
+The later historians were all tradition-bound and dull of nature and
+intelligence, or, (at any rate) did not try not to be dull. They merely copied 20 the
+(older historians) and followed their example. They disregarded the changes in
+conditions and in the customs of nations and races that the passing of time had
+brought about. Thus, they presented historical information about dynasties and
+stories of events from the early period as mere forms without substance, blades
+without scabbards, as knowledge that must be considered ignorance, because it is
+not known what of it is extraneous and what is genuine. (Their information)
+concerns happenings the origins of which are not known. It concerns species the
+genera of which are not taken into consideration, and whose (specific) differences
+are not verified.21 With the information they set down they merely repeated
+historical material which is, in any case, widely known, and followed the earlier
+historians who worked on it. They neglected the importance of change over the
+generations in their treatment of the (historical material), because they had no one
+who could interpret it for them. Their works, therefore, give no explanation for it.
+When they then turn to the description of a particular dynasty, they report the
+historical information about it (mechanically) and take care to preserve it as it had
+been passed on down to them, be it imaginary or true. They do not turn to the
+beginning of the dynasty. Nor do they tell why it unfurled its banner and was able to
+give prominence to its emblem, or what caused it to come to a stop when it had
+reached its term. The student, thus, has still to search for the beginnings of
+conditions and for (the principles of) organization of (the various dynasties). He
+must (himself) investigate why the various dynasties brought pressures to bear upon
+each other and why they succeeded each other. He must search for a convincing
+explanation of the elements that made for mutual separation or contact among the
+dynasties. All this will be dealt with in the Introduction to this work.
+Other historians, then, came with too brief a presentation (of history). They
+went to the extreme of being satisfied with the names of kings, without any
+genealogical or historical information, and with only a numerical indication of the
+length of reigns. 22 This was done by Ibn Rashiq in the Mizan al-'amal, 23 and by
+those lost sheep who followed his method. No credence can be given to what they
+say. They are not considered trustworthy, nor is their material considered worthy of
+transmission, for they caused useful material to be lost and damaged the methods
+and customs acknowledged (as sound and practical) by historians.
+When I had read the works of others and probed into the recesses of
+yesterday and today, I shook myself out of that drowsy complacency and sleepiness.
+Although not much of a writer, 24 I exhibited my own literary ability as well as I
+
+could, and, thus, composed a book on history. In (this book) I lifted the veil from
+conditions as they arise in the various generations. I arranged it in an orderly way in
+chapters dealing with historical facts and reflections. In it I showed how and why
+dynasties and civilization originate. I based the work on the history of the two races
+that constitute the population of the Maghrib at this time and people its various
+regions and cities, and on that of their ruling houses, both long- and short-lived,
+including the rulers and allies they had in the past. These two races are the Arabs
+and the Berbers. They are the two races known to have resided in the Maghrib for
+such a long time that one can hardly imagine they ever lived elsewhere, for its
+inhabitants know no other human races.
+I corrected the contents of the work carefully and presented it to the
+judgment of scholars and the elite. I followed an unusual method of arrangement
+and division into chapters. From the various possibilities, I chose a remarkable and
+original method. In the work, I commented on civilization, on urbanization, and on
+the essential characteristics of human social organization, in a way that explains to
+the reader how and why things are as they are, and shows him how the men who
+constituted a dynasty first came upon the historical scene. As a result, he will wash
+his hands of any blind trust in tradition. He will become aware of the conditions of
+periods and races that were before his time and that will be after it.
+I divided the work into an introduction and three books:
+The Introduction deals with the great merit of historiography, (offers) an
+appreciation of its various methods, and cites errors of the historians.
+The First Book deals with civilization and its essential characteristics,
+namely, royal authority, government, gainful occupations, ways of making a
+living, crafts, and sciences, as well as with the causes and reasons thereof.
+The Second Book deals with the history, races, and dynasties of the
+Arabs, from the beginning of creation down to this time. This will include
+references to such famous nations and dynasties - contemporaneous with
+them,25 as the Nabataeans,26 the Syrians, the Persians, the Israelites, the
+Copts, the Greeks, the Byzantines, and the Turks.
+The Third Book deals with the history of the Berbers and of the Zanatah
+who are part of them; with their origins and races; and, in particular, with the
+royal authority and dynasties in the Maghrib.
+Later on, there was my trip to the East, in order to find out about the
+manifold illumination it offers and to fulfill the religious duty and custom of
+circumambulating the Ka'bah and visiting Medina, as well as to study the systematic
+works and tomes on (Eastern) history. As a result, I was able to fill the gaps in my
+historical information about the non-Arab (Persian) rulers of those lands, and about
+the Turkish dynasties in the regions over which they ruled. I added this information
+to what I had written here (before in this connection). I inserted it into the treatment
+of the nations of the various districts and rulers of the various cities and regions that
+were contemporary with those (Persian and Turkish) races. In this connection I was
+brief and concise and preferred the easy goal to the difficult one. I proceeded from
+general genealogical (tables)27 to detailed historical information.
+Thus, (this work) contains an exhaustive history of the world. It forces
+stubborn stray wisdom to return to the fold. It gives causes and reasons for
+happenings in the various dynasties. It turns out to be a vessel for philosophy, a
+receptacle for historical knowledge. The work contains the history of the Arabs and
+
+the Berbers, both the sedentary groups and the nomads. It also contains references to
+the great dynasties that were contemporary with them, and, moreover, clearly
+indicates memorable lessons to be learned from early conditions and from
+subsequent history. Therefore, I called the work "Book of Lessons and Archive of
+Early and Subsequent History, Dealing with the Political Events Concerning the
+Arabs, Non-Arabs, and Berbers, and the Supreme Rulers Who Were Contemporary
+with Them." 28
+I omitted nothing concerning the origin of races and dynasties, concerning
+the synchronism of the earliest nations, concerning the reasons for change and
+variation in past periods and within religious groups, concerning dynasties and
+religious groups, towns and hamlets, strength and humiliation, large numbers and
+small numbers, sciences and crafts, gains and losses, changing general conditions,
+nomadic and sedentary life, actual events and future events, all things expected to
+occur in civilization. I treated everything comprehensively and exhaustively and
+explained the arguments for and causes of it(s existence).
+As a result, this book has become unique, as it contains unusual knowledge
+and familiar if hidden wisdom. Still, after all has been said, I am conscious of
+imperfection when (I look at) the scholars of (past and contemporary) times.29 I
+confess my inability to penetrate so difficult a subject. I wish that men of scholarly
+competence and wide knowledge would look at the book with a critical, rather than
+a complacent eye, and silently correct and overlook the mistakes they come upon.
+The capital of knowledge that an individual scholar has to offer is small. Admission
+(of one's shortcomings) saves from censure. Kindness from colleagues is hoped for.
+It is God whom I ask to make our deeds acceptable in His sight. He suffices me. He
+is a good protector.30
+
+INTRODUCTION
+The excellence of historiography. -An appreciation of
+the various approaches to history. -A glimpse at the
+different kinds of errors to which historians are liable.
+Something about why these errors occur. 31
+
+IT SHOULD BE KNOWN that history is a discipline that has a great
+number of (different) approaches. Its useful aspects are very many. Its goal is
+distinguished.
+(History) makes us acquainted with the conditions of past nations as they are
+reflected in their (national) character. It makes us acquainted with the biographies of
+the prophets and with the dynasties and policies of rulers. Whoever so desires may
+thus achieve the useful result of being able to imitate historical examples in religious
+and worldly matters.
+The (writing 32 of history) requires numerous sources and greatly varied
+knowledge. It also requires a good speculative mind and thoroughness. (Possession
+of these two qualities) leads the historian to the truth and keeps him from slips and
+errors. If he trusts historical information in its plain transmitted form and has no
+clear knowledge of the principles resulting from custom, the fundamental facts of
+politics, the nature of civilization, or the conditions governing human social
+organization, and if, furthermore, he does not evaluate remote or ancient material
+through comparison with near or contemporary material, he often cannot avoid
+stumbling and slipping and deviating from the highroad of truth. Historians, Qur'an
+commentators and leading transmitters have committed frequent errors in the stories
+and events they reported. They accepted them in the plain transmitted form, without
+regard for its value. They did not check them with the principles underlying such
+historical situations, nor did they compare them with similar material. Also, they did
+not probe (more deeply) with the yardstick of philosophy, with the help of
+knowledge of the nature of things, or with the help of speculation and historical
+insight. Therefore, they strayed from the truth and found themselves lost in the
+desert of baseless assumptions and errors.
+This is especially the case with figures, either of sums of money or of
+soldiers, whenever they occur in stories. They offer a good opportunity for false
+information and constitute a vehicle for nonsensical statements. They must be
+controlled and checked with the help of known fundamental facts.
+For example, al-Mas'udi and many other historians report that Moses
+counted the army of the Israelites in the desert. 33 He had all those able to carry
+arms, especially those twenty years and older, pass muster. There turned out to be
+600,000 or more. In this connection, (al-Mas'udi) forgets to take into consideration
+whether Egypt and Syria could possibly have held such a number of soldiers. Every
+realm may have as large a militia as it can hold and support, but no more. This fact
+is attested by well-known customs and familiar conditions. Moreover, an army of
+this size cannot march or fight as a unit. The whole available territory would be too
+small for it. If it were in battle formation, it would extend two, three, or more times
+beyond the field of vision. How, then, could two such parties fight with each other,
+or one battle formation gain the upper hand when one flank does not know what the
+
+other flank is doing! The situation at the present day testifies to the correctness of
+this statement. The past resembles the future more than one (drop of) water another.
+Furthermore, the realm of the Persians was much greater than that of the
+Israelites. This fact is attested by Nebuchadnezzar's victory over them. He swallowed
+up their country and gained complete control over it. He also destroyed Jerusalem,
+their religious and political capital. And he was merely one of the officials of the
+province of Fars.34 It is said that he was the governor of the western border region.
+The Persian provinces of the two 'Iraqs,35 Khurasan, Transoxania, and the region of
+Derbend on the Caspian Sea 36 were much larger than the realm of the Israelites.
+Yet, the Persian army did not attain such a number or even approach it. The greatest
+concentration of Persian troops, at alQadisiyah, amounted to 120,000 men, all of
+whom had their retainers. This is according to Sayf 37 who said that with their
+retainers they amounted to over 200,000 persons. According to 'A'ishah and azZuhri,38 the troop concentration with which Rustum advanced against Sa'd at alQadisiyah amounted to only 60,000 men, all of whom had their retainers.
+Then, if the Israelites had really amounted to such a number, the extent of
+the area under their rule would have been larger, for the size of administrative units
+and provinces under a particular dynasty is in direct proportion to the size of its
+militia and the groups that support the (dynasty), as will be explained in the section
+on provinces in the first book.39 Now, it is well known that the territory of the
+(Israelites) did not comprise an area larger than the Jordan province and Palestine in
+Syria and the region of Medina and Khaybar in the Hijaz.40 Also, there were only
+three generations41 between Moses and Israel, according to the best-informed
+scholars. Moses was the son of Amram, the son of Kohath (Qahat or Qahit ), the son
+of Levi (Lewi or Lawi ),42 the son of Jacob who is Israel-Allah. This is Moses'
+genealogy in the Torah. 43 The length of time between Israel and Moses was
+indicated by al-Mas'udi when he said: "Israel entered Egypt with his children, the
+tribes, and their children, when they came to Joseph numbering seventy souls. The
+length of their stay in Egypt until they left with Moses for the desert was two
+hundred and twenty years. During those years, the kings of the Copts, the Pharaohs,
+passed them on (as their subjects) one to the other." 44 It is improbable that the
+descendants of one man could branch out into such a number within four
+generations.45
+It has been assumed that this number of soldiers applied to the time of
+Solomon and his successors. Again, this is improbable. Between Solomon and
+Israel, there were only eleven generations, that is: Solomon, the son of David, the
+son of Jesse, the son of Obed ('Ubidh, or ' Ufidh), the son of Boaz (Ba'az, or Bu'iz),
+the son of Salmon, the son of Nahshon, the son of Amminadab ('Amminddhab, or
+Hamminddhab), the son of Ram, the son of Hezron (Had/srun, or Hasran), the son
+of Perez ( Baras, or Bayras ), the son of Judah, the son of Jacob. The descendants of
+one man in eleven generations would not branch out into such a number, as has been
+assumed. They might, indeed, reach hundreds or thousands. This often happens. But
+an increase beyond that to higher figures 46 is improbable. Comparison with
+observable present-day and well-known nearby facts proves the assumption and
+report to be untrue. According to the definite statement of the Israelite Stories, 47
+Solomon's army amounted to 12,000 men, and his horses48 numbered 1,400 horses,
+which were stabled at his palace. This is the correct information. No attention should
+be paid to nonsensical statements by the common run of informants. In the days of
+Solomon, the Israelite state saw its greatest flourishing and their realm its widest
+
+extension.
+Whenever49 contemporaries speak about the dynastic armies of their own or
+recent times, and whenever they engage in discussions about Muslim or Christian
+soldiers, or when they get to figuring the tax revenues and the money spent by the
+government, the outlays of extravagant spenders, and the goods that rich and
+prosperous men have in stock, they are quite generally found to exaggerate, to go
+beyond the bounds of the ordinary, and to succumb to the temptation of
+sensationalism. When the officials in charge are questioned about their armies, when
+the goods and assets of wealthy people are assessed, and when the outlays of
+extravagant spenders are looked at in ordinary light, the figures will be found to
+amount to a tenth of what those people have said. The reason is simple. It is the
+common desire for sensationalism, the ease with which one may just mention a
+higher figure, and the disregard of reviewers and critics. This leads to failure to
+exercise self-criticism about one's errors and intentions, to demand from oneself
+moderation and fairness in reporting, to reapply oneself to study and research. Such
+historians let themselves go and made a feast of untrue statements. "They procure
+for themselves entertaining stories in order to lead (others) astray from the path of
+God." 50 This is a bad enough business.
+It 51 may be said that the increase of descendants to such a number would be
+prevented under ordinary conditions which, however, do not apply to the Israelites.
+(The increase in their case) would be a miracle in accordance with the tradition
+which said that one of the things revealed to their forefathers, the prophets
+Abraham, Isaac, and Jacob, was that God would cause their descendants to increase
+until they were more numerous than the stars of heaven and the pebbles of the earth.
+God fulfilled this promise to them as an act of divine grace bestowed upon them and
+as an extraordinary miracle in their favor. Thus, ordinary conditions could not hinder
+(such an event), and nobody should speak against it.
+Someone might come out against this tradition (with the argument) that it
+occurs only in the Torah which, as is well known, was altered by the Jews. (The
+reply to this argument would be that) the statement concerning the alteration (of the
+Torah by the Jews) is unacceptable to thorough scholars and cannot be understood
+in its plain meaning, since custom prevents people who have a (revealed) religion
+from dealing with their divine scriptures in such a manner. This was mentioned by
+al-Bukhari in the Sahih.52 Thus, the great increase in numbers in the case of the
+Israelites would be an extraordinary miracle. Custom, in the proper meaning of the
+word, would prevent anything of the sort from happening to other peoples.
+It is true that a (co-ordinated battle) movement in (such a large group) would
+hardly be possible, but none took place, and there was no need for one. It is also true
+that each realm has its particular number of militia (and no more). But the Israelites
+at first were no militiamen and had no dynasty. Their numbers increased that much,
+so that they could gain power over the land of Canaan which God had promised
+them and the territory of which He had purified for them. All these things are
+miracles. God guides to the truth.
+The53 history of the Tubba's, the kings of the Yemen and of the Arabian
+Peninsula, as it is generally transmitted, is another example of silly statements by
+historians. It is said that from their home in the Yemen, (the Tubba's) used to raid
+Ifriqiyah and the Berbers of the Maghrib. Afriqus b. Qays b. Sayfi, one of their great
+early kings who lived in the time of Moses or somewhat earlier,54 is said to have
+raided Ifriqiyah. He caused a great slaughter among the Berbers. He gave them the
+name of Berbers when he heard their jargon and asked what that "barbarah" was.55
+
+This gave them the name which has remained with them since that time. When he
+left the Maghrib, he is said. to have concentrated some Himyar tribes there. They
+remained there and mixed with the native population. Their (descendants) are the
+Sinhajah and the Kutamah. This led at-Tabari, al-Jurjani,56 al-Mas' udi, Ibn alKalbi,57 and al-Bayhaqi 58 to make the statement that the Sinhajah and the Kutamah
+belong to the Himyar. The Berber genealogists do not admit this, and they are right.
+Al-Mas'udi also mentioned that one of the Himyar kings after Afriqus, Dhul-Adh'ar,
+who lived in the time of Solomon, raided the Maghrib and forced it into submission.
+Something similar is mentioned by al-Mas'udi concerning his son and successor,
+Yasir.59 He is said to have reached the Sand River60 in the Maghrib and to have
+been unable to find passage through it because of the great mass of sand. Therefore,
+he returned.
+Likewise, it is said that the last Tubba',61 As'ad Abu Karib, who lived in the
+time of the Persian Kayyanid king Yastasb,62 ruled over Mosul and Azerbaijan. He
+is said to have met and routed the Turks and to have caused a great slaughter among
+them. Then he raided them again a second and a third time. After that, he is said to
+have sent three of his sons on raids, (one) against the country of Firs, (one) against
+the country of the Soghdians, one of the Turkish nations of Transoxania, and (one)
+against the country of the Rum (Byzantines)63 The first brother took possession of
+the country up to Samarkand and crossed the desert into China. There, he found his
+second brother who had raided the Soghdians and had arrived in China before him.
+The two together caused a great slaughter in China and returned together with their
+booty. They left some Himyar tribes in Tibet. They have been there down to this
+time. The third brother is said to have reached Constantinople. He laid siege to it and
+forced the country of the Rum (Byzantines) into submission. Then, he returned.
+All this information is remote from the truth. It is rooted in baseless and
+erroneous assumptions. It is more like the fiction of storytellers. The realm of the
+Tubba's was restricted to the Arabian peninsula. Their home and seat was San'a' in
+the Yemen. The Arabian peninsula is surrounded by the ocean on three sides: the
+Indian Ocean on the south, the Persian Gulf jutting out of the Indian Ocean to alBasrah on the east, and the Red Sea jutting out of the Indian Ocean to Suez in Egypt
+on the west. This can be seen on the map. There is no way from the Yemen to the
+Maghrib except via Suez. The distance between the Red Sea and the Mediterranean
+is two days' journey or less. It is unlikely that the distance could be traversed by a
+great ruler with a large army unless he controlled that region. This, as a rule, is
+impossible. In that region there were the Amalekites and Canaan in Syria, and, in
+Egypt, the Copts. Later on, the Amalekites took possession of Egypt, and the
+Israelites (took possession) of Syria. There is, however, no report that the Tubba's
+ever fought against one of these nations or that they had possession of any part of
+this region. Furthermore, the distance from the Yemen to the Maghrib is great, and
+an army requires much food and fodder. Soldiers traveling in regions other than
+their own have to requisition grain and livestock and to plunder the countries they
+pass through. As a rule, such a procedure does not yield enough food and fodder. On
+the other hand, if they attempted to take along enough provisions from their own
+region, they would not have enough animals for transportation. So, their whole line
+of march necessarily takes them through regions they must take possession of and
+force into submission in order to obtain provisions from them. Again, it would be a
+most unlikely and impossible assumption that such an army could pass through all
+those nations without disturbing them, obtaining its provisions by peaceful
+negotiation. This shows that all such information (about Tubba' expeditions to the
+Maghrib) is silly or fictitious.
+
+============================================================
+
+FIRST PREFATORY DISCUSSION
+========================================
+
+FIRST PREFATORY DISCUSSION
+HUMAN 1 SOCIAL ORGANIZATION is something necessary. The
+philosophers expressed this fact by saying: "Man is `political' by nature." 2 That is,
+he cannot do without the social organization for which the philosophers use the
+technical term "town" (polis).
+This is what civilization means. (The necessary character of human social
+organization or civilization) is explained by the fact that God created and fashioned
+man in a form that can live and subsist only with the help of food. He guided man to
+a natural desire for food and instilled in him the power that enables him to obtain it.
+However, the power of the individual human being is not sufficient for him
+to obtain (the food) he needs, and does not provide him with as much food as he
+requires to live. Even if we assume an absolute minimum of food-that is, food
+enough for one day, (a little) wheat, for instance-that amount of food could be
+obtained only after much preparation such as grinding, kneading, and baking. Each
+of these three operations requires utensils and tools that can be provided only with
+the help of several crafts, such as the crafts of the blacksmith, the carpenter, and the
+potter. Assuming that a man could eat unprepared grain, an even greater number of
+operations would be necessary in order to obtain the grain: sowing and reaping, and
+threshing to separate it from the husks of the ear. Each of these operations requires a
+number of tools and many more crafts than those just mentioned. It is beyond the
+power of one man alone to do all that, or (even) part of it, by himself. Thus, he
+cannot do without a combination of many powers from among his fellow beings, if
+he is to obtain food for himself and for them. Through cooperation, the needs of a
+number of persons, many times greater than their own (number), can be satisfied.
+Likewise, each individual needs the help of his fellow beings for his defense,
+as well. When God fashioned the natures of all living beings and divided the various
+powers among them, many dumb animals were given more perfect powers than God
+gave to man. The power of a horse, for instance, is much greater than the power of
+man, and so is the power of a donkey or an ox. The power of a lion or an elephant is
+many times greater than the power of (man).
+Aggressiveness is natural in living beings. Therefore, God gave each of them
+a special limb for defense against aggression. To man, instead, He gave the ability to
+think, and the hand. With the help of the ability to think, the hand is able to prepare
+the ground for the crafts. The crafts, in turn, procure for man the instruments that
+serve him instead of limbs, which other animals possess for their defense. Lances,
+for instance, take the place of horns for goring, swords the place of claws to inflict
+wounds, shields the place of thick skins, and so on. There are other such things.
+They were all mentioned by Galen in De usu partium.3
+The power of one individual human being cannot withstand the power of any
+one dumb animal, especially not the power of the predatory animals. Man is
+generally unable to defend himself against them by himself. Nor is his (unaided)
+power sufficient to make use of the existing instruments of defense, because there
+are so many of them and they require so many crafts and (additional) things. It is
+absolutely necessary for man to have the co-operation of his fellow men. As long as
+there is no such co-operation, he cannot obtain any food or nourishment, and life
+cannot materialize for him, because God fashioned him so that he must have food if
+he is to live. Nor, lacking weapons, can he defend himself. Thus, he falls prey to
+animals and dies much before his time. Under such circumstances, the human
+
+species would vanish. When, however, mutual co-operation exists, man obtains food
+for his nourishment and weapons for his defense. God's wise plan that man(kind)
+should subsist and the human species be preserved will be fulfilled.
+Consequently, social organization is necessary to the human species. Without
+it, the existence of human beings would be incomplete. God's desire to settle the
+world with human beings and to leave them as His representatives on earth4 would
+not materialize. This is the meaning of civilization, the object of the science under
+discussion.
+The afore-mentioned remarks have been in the nature of establishing the
+existence of the object in (this) particular field. A scholar in a particular discipline is
+not obliged to do this, since it is accepted in logic that a scholar in a particular
+science does not have to establish the existence of the object in that science. 5 On the
+other hand, logicians do not consider it forbidden to do so. Thus, it is a voluntary
+contribution.
+God, in His grace, gives success.
+When 6 mankind has achieved social organization, as we have stated, and
+when civilization in the world has thus become a fact, people need someone to
+exercise a restraining influence and keep them apart, for aggressiveness and
+injustice are in the animal nature of man. The weapons made for the defense of
+human beings against the aggressiveness of dumb animals do not suffice against the
+aggressiveness of man to man, because all of them possess those weapons. Thus,
+something else is needed for defense against the aggressiveness of human beings
+toward each other. It could not come from outside, because all the other animals fall
+short of human perceptions and inspiration. The person who exercises a restraining
+influence, therefore, must be one of themselves. He must dominate them and have
+power and authority over them, so that no one of them will be able to attack another.
+This is the meaning of royal authority.
+It has thus become clear that royal authority is a natural quality of man
+which is absolutely necessary to mankind. The philosophers mention that it also
+exists among certain dumb animals, such as the bees and the locusts 7 One discerns
+among them the existence of authority and obedience to a leader. They follow the
+one of them who is distinguished as their leader by his natural characteristics and
+body. However, outside of human beings, these things exist as the result of natural
+disposition and divine guidance, and not as the result of an ability to think or to
+administrate. "He gave everything its natural characteristics, and then guided it." 8
+The philosophers go further. They attempt to give logical proof of the
+existence of prophecy and to show that prophecy is a natural quality of man. In this
+connection, they carry the argument to its ultimate consequences and' say that
+human beings absolutely require some authority to exercise a restraining influence.
+They go on to say that such restraining influence exists through the religious law
+(that has been) ordained by God and revealed to mankind by a human being. (This
+human being) is distinguished from the rest of mankind by special qualities of
+divine guidance that God gave him, in order that he might find the others submissive
+to him and ready to accept what he says. Eventually, the existence of a (restraining)
+authority among them and over them becomes a fact that is accepted without the
+slightest disapproval or dissent.
+This proposition of the philosophers is not logical, as one can see. Existence
+and human life can materialize without (the existence of prophecy) through
+injunctions a person in authority may devise on his own or with the help of a group
+feeling that enables him to force the others to follow him wherever he wants to go.
+People who have a (divinely revealed) book and who follow the prophets are few in
+
+number in comparison with (all) the Magians 9 who have no (divinely revealed)
+book. The latter constitute the majority of the world's inhabitants. Still, they (too)
+have possessed dynasties and monuments, not to mention life itself. They still
+possess these things at this time in the intemperate zones to the north and the south.
+This is in contrast10 with human life in the state of anarchy, with no one to exercise
+a restraining influence. That would be impossible.
+This shows that (the philosophers) are wrong when they assume that
+prophecy exists by necessity. The existence of prophecy is not required by logic. Its
+(necessary character) is indicated by the religious law, as was the belief of the early
+Muslims.
+God gives success and guidance.
+
+============================================================
+
+CHAPTER II: BEDOUIN CIVILIZATION (EXCERPTS)
+========================================
+
+Chapter II
+BEDOUIN CIVILIZATION, SAVAGE NATIONS
+AND TRIBES AND THEIR CONDITIONS (OF LIFE),
+INCLUDING SEVERAL BASIC AND
+EXPLANATORY STATEMENTS.1
+1. Both Bedouins and sedentary people are natural groups.
+IT 2 SHOULD BE KNOWN that differences of condition among people are
+the result of the different ways in which they make their living. Social organization
+enables them to cooperate toward that end and to start with the simple necessities of
+life, before they get to conveniences and luxuries.3
+Some people adopt agriculture, the cultivation of vegetables and grains, (as
+their way of making a living). Others adopt animal husbandry, the use of sheep,
+cattle, goats, bees, and silkworms, for breeding and for their products. Those who
+live by agriculture or animal husbandry cannot avoid the call of the desert, because
+it alone offers the wide fields, acres, pastures for animals, and other things that the
+settled areas do not offer. 4 It is therefore necessary for them to restrict themselves to
+the desert. Their social organization and co-operation for the needs of life and
+civilization, such as food, shelter, and warmth, do not take them beyond the bare
+subsistence level, because of their inability (to provide) for anything beyond those
+(things). Subsequent improvement of their conditions and acquisition of more
+wealth and comfort than they need, cause them to rest and take it easy. Then, they
+co-operate for things beyond the (bare) necessities. They use more food and clothes,
+and take pride in them. They build large houses, and lay out towns and cities for
+protection. This is followed by an increase in comfort and ease, which leads to
+formation of the most developed luxury customs. They take the greatest pride in the
+preparation of food and a fine cuisine, in the use of varied splendid clothes of silk
+and brocade and other (fine materials), in the construction of ever higher buildings
+and towers, in elaborate furnishings for the buildings, and the most intensive
+cultivation of crafts in actuality. They build castles and mansions, provide them with
+running water,5 build their towers higher and higher, and compete in furnishing
+them (most elaborately). They differ in the quality of the clothes, the beds, the
+vessels, and the utensils they employ for their purposes. Here, now, (we have)
+sedentary people. "Sedentary people" means the inhabitants of cities and countries,
+some of whom adopt the crafts as their way of making a living, while others adopt
+commerce. They earn more and live more comfortably than Bedouins, because they
+live on a level beyond the level of (bare) necessity, and their way of making a living
+corresponds to their wealth.
+It has thus become clear that Bedouins and sedentary people are natural
+groups which exist by necessity, as we have stated.
+
+2. The Arabs 6 are a natural group in the world.
+We have mentioned in the previous section that the inhabitants of the desert
+adopt the natural manner of making a living, namely, agriculture and animal
+husbandry. They restrict themselves to the necessary in food, clothing, and mode of
+dwelling, and to the other necessary conditions and customs. They do not possess
+conveniences and luxuries beyond (these bare necessities). They use tents of hair
+and wool, or houses of wood, or of clay and stone, which are not furnished
+(elaborately). The purpose is to have shade and shelter, and nothing beyond that.
+They also take shelter in caverns and caves. The food they take is either little
+prepared or not prepared at all, save that it may have been touched by fire. 7
+For those who make their living through the cultivation of grain and through
+agriculture, it is better to be stationary than to travel around. Such, therefore, are the
+inhabitants of small communities, villages, and mountain regions. These people
+make up the large mass of the Berbers and non-Arabs.
+Those who make their living from animals requiring pasturage, such as
+sheep and cattle, usually travel around in order to find pasture and water for their
+animals, since it is better for them to move around in the land. They are called:
+"sheepmen" (shawiyah), that is, men who live on sheep and cattle. They do not go
+deep into the desert, because they would not find good pastures there. Such people
+include the Berbers, the Turks and their relatives, the Turkomans and the Slavs,8 for
+instance.
+Those who make their living by raising camels move around more. They
+wander deeper into the desert, because the hilly 9 pastures with their plants and
+shrubs do not furnish enough subsistence for camels. They must feed on the desert
+shrubs and drink the salty desert water. They must move around the desert regions
+during the winter, in flight from the harmful cold to the warm desert air. In the
+desert sands, camels can find places to give birth to their young ones. Of all animals,
+camels have the hardest delivery and the greatest need for warmth in connection
+with it.10 (Camel nomads) are therefore forced to make excursions deep (into the
+desert). Frequently, too, they are driven from the hills by the militia, and they
+penetrate farther into the desert, because they do not want the militia 11 to mete out
+justice to them or to punish them for their hostile acts. As a result, they are the most
+savage human beings that exist. Compared with sedentary people, they are on a
+level with wild, untamable (animals) and dumb beasts of prey. Such people are the
+Arabs. In the West, the nomadic Berbers and the Zanatah are their counterparts, and
+in the East, the Kurds, the Turkomans, and the Turks. The Arabs, however, make
+deeper excursions into the desert and are more rooted in desert life (than the other
+groups), because they live exclusively on camels, while the other groups live on
+sheep and cattle, as well as camels.
+It has thus become clear that the Arabs are a natural group which by necessity
+exists in civilization.
+God is "the Creator, the Knowing One." 12
+
+3. Bedouins are prior to sedentary people. The desert is
+the basis and reservoir of civilization and cities.
+We 13 have mentioned that the Bedouins restrict themselves to the (bare)
+necessities in their conditions (of life) and are unable to go beyond them, while
+sedentary people concern themselves with conveniences and luxuries in their
+conditions and customs. The (bare) necessities are no doubt prior to the
+conveniences and luxuries. (Bare) necessities, in a way, are basic, and luxuries
+secondary and an outgrowth (of the necessities). Bedouins, thus, are the basis of,
+and prior to, cities and sedentary people. Man seeks first the (bare) necessities. Only
+after he has obtained the (bare) necessities, does he get to comforts and luxuries.
+The toughness of desert life precedes the softness of sedentary life. Therefore,
+urbanization is found to be the goal of the Bedouin. He aspires to (that goal) .14
+Through his own efforts, he achieves what he proposes to achieve in this respect.
+When he has obtained enough to be ready for the conditions and customs of luxury,
+he enters upon a life of ease and submits himself to the yoke of the city. This is the
+case with all Bedouin tribes. Sedentary people, on the other hand, have no desire for
+desert conditions, unless they are motivated by some urgent necessity 15 or they
+cannot keep up with their fellow city dwellers.
+Evidence for the fact that Bedouins are the basis of, and prior to, sedentary
+people is furnished by investigating the inhabitants of any given city. We shall find
+that most of its inhabitants originated among Bedouins dwelling in the country and
+villages of the vicinity. Such Bedouins became wealthy, settled in the city, and
+adopted a life of ease and luxury, such as exists in the sedentary environment. This
+proves that sedentary conditions are secondary to desert conditions and that they are
+the basis of them.15a This should be understood.
+All Bedouins and sedentary people differ also among themselves in their
+conditions (of life). Many a clan is greater than another, many a tribe greater than
+another, many a city larger than another, and many a town more populous ('umran)
+than another.
+It has thus become clear that the existence of Bedouins is prior to, and the
+basis of, the existence of towns and cities. Likewise, the existence of towns and
+cities results from luxury customs pertaining to luxury and ease, which are posterior
+to the customs that go with the bare necessities of life.
+
+4. Bedouins are closer to being good than sedentary people.
+The 16 reason for it is that the soul in its first natural state of creation is ready
+to accept whatever good or evil may arrive and leave an imprint upon it.
+Muhammad said: "Every infant is born in the natural state. It is his parents who
+make him a Jew or a Christian or a Magian." 17 To the degree the soul is first
+affected by one of the two qualities, it moves away from the other and finds it
+difficult to acquire it. When customs proper to goodness have been first to enter the
+soul of a good person and his (soul) has thus acquired the habit of (goodness, that
+person) moves away from evil and finds it difficult to do anything evil. The same
+applies to the evil person when customs (proper to evil) have been first to affect
+him.
+Sedentary people are much concerned with all kinds of pleasures. They are
+accustomed to luxury and success in worldly occupations and to indulgence in
+worldly desires. Therefore, their souls are colored with all kinds of blameworthy and
+evil qualities. The more of them they possess, the more remote do the ways and
+means of goodness become to them. Eventually they lose all sense of restraint.
+Many of them are found to use improper language in their gatherings as well as in
+the presence of their superiors and womenfolk. They are not deterred by any sense
+of restraint, because the bad custom of behaving openly in an improper manner in
+both words and deeds has taken hold of them. Bedouins may be as concerned with
+worldly affairs as (sedentary people are). However, such concern would touch only
+the necessities of life and not luxuries or anything causing, or calling for, desires
+and pleasures. The customs they follow in their mutual dealings are, therefore,
+appropriate. As compared with those of sedentary people, their evil ways and
+blameworthy qualities are much less numerous. They are closer to the first natural
+state and more remote from the evil habits that have been impressed upon the souls
+(of sedentary people) through numerous and ugly, blameworthy customs. Thus, they
+can more easily be cured than sedentary people. This is obvious. It will later on 18
+become clear that sedentary life constitutes the last stage of civilization and the
+point where it begins to decay. It also constitutes the last stage of evil and of
+remoteness from goodness. It has thus become clear that Bedouins are closer to
+being good than sedentary people. "God loves those who fear God." 19
+This is not contradicted by the statement of al-Hajjaj to Salamah b. alAkwa', which is included among the traditions of al-Bukhari. When al-Hajjaj
+learned that Salamah was going to live in the desert, he asked him, "You have
+turned back and become an Arab?" Salamah replied, "No, but the Messenger of
+God permitted me to go (back) to the desert." 20
+It should be known that at the beginning of Islam, the inhabitants of Mecca
+were enjoined to emigrate, so as to be with the Prophet wherever he might settle, in
+order to help him and to aid him in his affairs and to guard him. The Arab Bedouins
+of the desert were not enjoined to emigrate, because the Meccans were possessed of
+a strong group feeling for the Prophet to aid and guard him, such as did not exist
+among the desert Arabs. The emigrants, therefore, used to express an aversion to
+"becoming Arabs," that is, (to becoming) inhabitants of the desert upon whom
+
+emigration was not obligatory. According to the tradition of Sa'd b. Abi Waqqas,
+Muhammad said, when (Sa'd) was ill in Mecca: "O God, give success to the
+emigration of my companions and do not cause them to turn back." 21' That means,
+God should enable them to stay in Medina and not to have to leave it, so that they
+would not have to discontinue the emigration they had begun, and return. It is the
+same meaning as is implied in the expression "turning back" in connection with any
+enterprise.
+It is (also) said that the (prohibition against "turning back") was restricted to
+the time before the conquest of Mecca, when there was a need for emigration
+because of the small number of Muslims. After the conquest, when the Muslims had
+become numerous and strong, and God had guaranteed His Prophet inviolability
+('ismah), emigration was no longer necessary. Muhammad said: "There is no
+emigration after the conquest." 22 This has been interpreted as meaning that the
+injunction to emigrate was no longer valid for those who became Muslims after the
+conquest. It has also been interpreted (to mean) that emigration was no longer
+obligatory upon those who had become Muslims and had emigrated before the
+conquest. (At any rate,) all agree that emigration was no longer necessary after the
+Prophet's death, because the men around Muhammad had by then dispersed and
+spread in all directions. The only thing that remained was the merit of living in
+Medina, which constituted emigration.
+Thus, al-Hajjaj's statement to Salamah, who went to live in the desert: "You
+have turned back and become an Arab?" is a reproach to Salamah for giving up his
+residence in Medina. It contains an allusion to the words of the aforementioned
+prayer of the Prophet: "Do not cause them to turn back." The words, "You have
+become an Arab?" are a reproach, as they imply that Salamah had become one of
+the Arabs who did not emigrate. In his reply, Salamah denied both insinuations. He
+said that the Prophet had permitted him to go to the desert. This was a special
+(permission) in Salamah's case, exactly as, for instance, the testimony of
+Khuzaymah 23 and Abu Burdah's 24 lamb were special to the cases of Khuzaymah
+and Abu Burdah. Or, (it may be) alHajjaj reproached Salamah only because he was
+giving up his residence in Medina, as he was aware that emigration was no longer
+necessary after the Prophet's death. Salamah's reply was that it was more proper and
+better to avail himself of the Prophet's permission, who had distinguished him by
+this special permission only because (the Prophet) had some motive known to
+him(self) when he gave it.
+In any event, the story does not imply that censure of desert (life) is meant
+by the expression "to become an Arab." It is known that the legal obligation to
+emigrate served the purposes of aiding and guarding the Prophet. It did not have the
+purpose of censuring desert (life). Use of the expression "to become an Arab," to
+condemn non-fulfillment of the duty (of emigration), is no indication that "becoming
+an Arab" is something blameworthy. And God knows better.
+
+5. Bedouins are more disposed to courage than sedentary people.
+The 25 reason for this is that sedentary people have become used to laziness
+and ease. They are sunk in well-being and luxury. They have entrusted defense of
+their property and their lives to the governor and ruler who rules them, and to the
+militia which has the task of guarding them. They find full assurance of safety in the
+walls that surround them, and the fortifications that protect them. No noise disturbs
+them, and no hunting occupies them. They are carefree and trusting, and have ceased
+to carry weapons. Successive generations have grown up in this way of life. They
+have become like women and children, who depend upon the master of the house.
+Eventually, this has come to be a quality of character that replaces natural
+(disposition).
+The Bedouins, on the other hand, live separate from the community. They
+are alone in the country and remote from militias. They have no walls and gates.
+Therefore, they provide their own defense and do not entrust it to, or rely upon
+others for it. They always carry weapons. They watch carefully all sides of the road.
+They take hurried naps only when they are together in company or when they are in
+the saddle. They pay attention to every faint barking and noise. They go alone into
+the desert, guided by their fortitude, putting their trust in themselves. Fortitude has
+become a character quality of theirs, and courage their nature. They use it whenever
+they are called upon or an alarm stirs them. When sedentary people mix with them
+in the desert or associate with them on a journey, they depend on them. They cannot
+do anything fore themselves without them.. This is an observed fact. (Their
+dependence extends) even to knowledge of the country, the (right) directions,
+watering places, and crossroads. The reason for this is the thing we have explained.
+At the base of it is the fact that man is a child of the customs and the things he has
+become used to. He is not the product of his natural disposition and temperament. 25a
+The conditions to which he has become accustomed, until they have become for him
+a quality of character and matters of habit and custom, have replaced his natural
+disposition. If one studies this in human beings, one will find much of it, and it will
+be found to be a correct (observation).
+"God creates whatever He wishes." 26
+
+6. The reliance of sedentary people upon laws destroys their fortitude and power of
+resistance.
+Not everyone is master of his own affairs. Chiefs and leaders who are
+masters of the affairs of men are few in comparison with the rest. As a rule, man
+must by necessity be dominated by someone else. If the domination is kind and just
+and the people under it are not oppressed by its laws and restrictions, they are
+guided by the courage or cowardice that they possess in themselves. They are
+satisfied with the absence of any restraining power. Self-reliance eventually
+becomes a quality natural to them. They would not know anything else. If, however,
+the domination with its laws is one of brute force and intimidation, it breaks their
+fortitude and deprives them of their power of resistance as a result of the inertness
+that develops in the souls of the oppressed, as we shall explain.
+'Umar forbade Sa'd (b. Abi Waqqas) to exercise such (arbitrary power) when
+Zuhrah b. Hawiyah took the spoils of al-Jalinus. The value of the spoils was 75,000
+gold pieces. (Zuhrah) had followed al-Jalinus on the day of al-Qadisiyah, killed him,
+and taken his spoils. Sa'd took them away from him and said, "Why did you not wait
+for my permission to follow him?" He wrote to 'Umar and asked 'Umar for
+permission (to confiscate the spoils). But 'Umar replied, "Would you want to
+proceed against a man like Zuhrah, who already has borne so much of the brunt (of
+battle),27 and while there still remains so much of the war for you (to finish)?
+Would you want to break his strength and morale?" Thus, 'Umar confirmed
+(Zuhrah) in possession of the spoils. 28
+When laws are (enforced) by means of punishment, they completely destroy
+fortitude, because. the use of punishment against someone who cannot defend
+himself generates in that person a feeling of humiliation that, no doubt, must break
+his fortitude.
+When laws are (intended to serve the purposes of) education and instruction
+and are applied from childhood on, they have to some degree the same effect,
+because people then grow up in fear and docility and consequently do not rely on
+their own fortitude.
+For this (reason), greater fortitude is found among the savage Arab Bedouins
+than among people who are subject to laws. Furthermore, those who rely on laws
+and are dominated by them from the very beginning of their education and
+instruction in the crafts, sciences, and religious matters, are thereby deprived of
+much of their own fortitude. They can scarcely defend themselves at all against
+hostile acts. This is the case with students, whose occupation it is to study and to
+learn from teachers and religious leaders, and who constantly apply themselves to
+instruction and education in very dignified gatherings. This situation and the fact
+that it destroys the power of resistance and fortitude must be understood.
+It is no argument against the (statement just made) that the men around
+Muhammad observed the religious laws, and yet did not experience any diminution
+of their fortitude, but possessed the greatest possible fortitude. When the Muslims
+got their religion from the Lawgiver (Muhammad), the restraining influence came
+from themselves, as a result of the encouragement and discouragement he gave
+29
+
+them in the Qur'an. It was not a result of technical instruction or scientific
+education. (The laws) were the laws and precepts of the religion, which they
+received orally and which their firmly rooted (belief in) the truth of the articles of
+faith caused them to observe. Their fortitude remained unabated, and it was not
+corroded by education or authority. 'Umar said, "Those who are not educated
+(disciplined) by the religious law are not educated (disciplined) by God." 30 (This
+statement expresses) 'Umar's desire that everyone should have his restraining
+influence in himself. It also expresses his certainty that the Lawgiver (Muhammad)
+knew best what is good for mankind.
+(The influence of) religion, then, decreased among men, and they came to
+use restraining laws. The religious law became a branch of learning and a craft to be
+acquired through instruction and education. People turned to sedentary life and
+assumed the character trait of submissiveness to law. This led to a decrease in their
+fortitude.
+It has thus become clear that governmental and educational laws destroy
+fortitude, because their restraining influence is something that comes from outside.
+The religious laws, on the other hand, do not destroy fortitude, because their
+restraining influence is something inherent. Therefore, governmental and
+educational laws influence sedentary people, in that they weaken their souls and
+diminish their stamina, because they have to suffer (their authority) both as children
+and as adults. The Bedouins, on the other hand, are not in the same position,
+because they live far away from the laws of government, instruction, and education.
+Therefore, Abu Muhammad b. Abi Zayd,31 in his book on the laws governing
+teachers and students (Ahkam al-mu'allimin wa-lmuta'allimin), said: "The educator
+must not strike a boy more than three times (in one punishment) as an educational
+measure." 32 (Ibn Abi Zayd) reported this remark on the authority of Judge
+Shurayh. 33 Certain scholar(s) argued in favor of the procedure mentioned, by
+referring to the threefold choking mentioned in the tradition concerned with the
+beginning of revelation.34 This, however, is a weak argument. (The tradition about
+the) choking is not suitable proof, because it has nothing to do with ordinary
+instruction. God "is wise and knowing." 35
+
+7. Only tribes held together by group feeling can live in the desert.
+
+It should be known that God put good and evil into the nature of man. Thus,
+He said in the Qur'an: "We led him along the two paths." 36 He further said: "And
+inspired (the soul) with its wickedness as well as its fear of God." 37
+Evil is the quality that is closest to man when he fails to improve his customs
+and (when) religion is not used as the model to improve, him. The great mass of
+mankind is in that condition, with the exception of those to whom God gives
+success. Evil 38 qualities in man are injustice and mutual aggression. He who casts
+his eye upon the property of his brother will lay his hand upon it to take it, unless
+there is a restraining influence to hold him back. The poet thus said:
+Injustice is a human characteristic. If you find
+A moral man,39 there is some reason why he is not unjust.
+Mutual aggression of people in towns and cities is averted by the authorities
+and the government, which hold back the masses under their control from attacks
+and aggression upon each other. They are thus prevented by the influence of force
+and governmental authority from mutual injustice, save such injustice as comes
+from the ruler himself.
+Aggression against a city from outside may be averted by walls, in the event
+of negligence, 40 a surprise attack at night, or inability (of the inhabitants) to
+withstand the enemy during the day. (Or,) it may be averted with the help of a
+militia of government auxiliary troops, if (the inhabitants are otherwise) prepared
+and ready to offer resistance.
+The 41 restraining influence among Bedouin tribes comes from their shaykhs
+and leaders. It results from the great respect and veneration they generally enjoy
+among the people. The hamlets of the Bedouins are defended against outside
+enemies by a tribal militia composed of noble youths of the tribe
+who are known for their courage. Their defense and protection are successful
+only if they are a closely-knit group 42 of common descent. This strengthens their
+stamina and makes them feared, since everybody's affection for his family and his
+group is more important (than anything else). Compassion and affection for one's
+blood relations and relatives exist in human nature as something God put into the
+hearts of men. It makes for mutual support and aid, and increases the fear felt by the
+enemy.
+This may be exemplified by the story in the Qur'an about Joseph's brothers.
+They said to their father: "If the wolf eats him, while we are a group, then, indeed,
+we have lost out." 43 This means that one cannot imagine any hostile act being
+undertaken against anyone who has his group feeling to support him.
+Those who have no one of their own lineage (to care for) rarely feel
+affection for their fellows. If danger is in the air on the day of battle, such a one
+slinks away and seeks to save himself, because he is afraid of being left without
+support 44 and dreads (that prospect). Such people, therefore, cannot live in the
+desert, because they would fall prey to any nation that might want to swallow them
+
+up.
+If this is true with regard to the place where one lives, which is in constant
+need of defense and military protection, it is equally true with regard to every other
+human activity, such as prophecy, the establishment of royal authority, or
+propaganda (for a cause). Nothing can be achieved in these matters without fighting
+for it, since man has the natural urge to offer resistance. And for fighting one cannot
+do without group feeling, as we mentioned at the beginning. This should be taken as
+the guiding principle of our later exposition.
+God gives success.
+
+8. Group feeling results only from (blood) relation
+ship or something corresponding to it.
+(Respect for) blood 45 ties is something natural among men, with the rarest
+exceptions. It leads to affection for one's relations and blood relatives, (the feeling
+that) no harm ought to befall them nor any destruction come upon them. One feels
+shame when one's relatives are treated unjustly or attacked, and one wishes to
+intervene between them and whatever peril or destruction threatens them. This is a
+natural urge in man, for as long as there have been human beings. If the direct
+relationship between persons who help each other is very close, so that it leads to
+close contact and unity, the ties are obvious and clearly require the (existence of a
+feeling of solidarity) without any outside (prodding). If, however, the relationship is
+somewhat distant, it is often forgotten in part. However, some knowledge of it
+remains and this causes a person to help his relatives for the known motive, in order
+to escape the shame he would feel in his soul were a person to whom he is somehow
+related treated unjustly46
+Clients and allies belong in the same category. The affection everybody has
+for his clients and allies results from the feeling of shame that comes to a person
+when one of his neighbors, relatives, or a blood relation in any degree (of kinship)
+is humiliated. The reason for it is that a client(-master) relationship leads to close
+contact exactly, or approximately in the same way, as does common descent. It is in
+that sense that one must understand Muhammad's remark, "Learn as much of your
+pedigrees as is necessary to establish your ties of blood relationship." 47 It means
+that pedigreesare useful only in so far as they imply the close contact that is a
+consequence of blood ties and that eventually leads to mutual help and affection.
+Anything beyond that is superfluous.48 For a pedigree is something imaginary and
+devoid of reality.49 Its usefulness consists only in the resulting connection and close
+contact. If the fact of (common descent) is obvious and clear, it evokes in man a
+natural affection, as we have said. If, however, its existence is known only from
+remote history, it moves the imagination but faintly. Its usefulness is gone, and
+preoccupation with it becomes gratuitous, a kind of game, and as such is not
+permissible. In this sense, one must understand the remark, "Genealogy is
+something that is of no use to know and that it does no harm not to know." 50 This
+means that when common descent is no longer clear and has become a matter of
+scientific knowledge, it can no longer move the imagination and is denied the
+affection caused by group feeling. It has become useless.
+And God knows better.
+
+9. Purity of lineage is found only among the savage
+Arabs of the desert and other such people.
+This 51 is on account of the poor life, hard conditions, and bad habitats that
+are peculiar to the Arabs. They are the result of necessity that destined (these
+conditions) for (the Arabs), in as much as their subsistence depends on camels and
+camel breeding and pasturage. The camels are the cause of (the Arabs') savage life
+in the desert, since they feed on the shrubs of the desert and give birth (to their
+young ones) in the desert sands, as has been mentioned before.52 The desert is a
+place of hardship and starvation, but to them it has become familiar and
+accustomed. Generations of (Arabs) grew up in the desert. Eventually, they become
+confirmed in their character and natural qualities. No member of any other nation
+was disposed to share their conditions. No member of any other race felt attracted to
+them. But if one of them were to find ways and means of fleeing from these
+conditions, he would not (do so or) give them up.53 Therefore, their pedigrees can
+be trusted not to have been mixed up and corrupted. They have been preserved pure
+in unbroken lines. This is the case, for instance, with Mudar tribes such as the
+Quraysh, the Kinanah, the Thaqif, the Banu Asad, the Hudhayl, and their Khuza'ah
+neighbors. They lived a hard life in places where there was no agriculture or animal
+husbandry. They lived far from the fertile fields of Syria and the 'Iraq, far from the
+sources of seasonings and grains. How pure have they kept their lineages! These are
+unmixed in every way, and are known to be unsullied.
+Other Arabs lived in the hills and at the sources of fertile pastures and
+plentiful living. Among these Arabs were the Himyar and the Kahlan, such as the
+Lakhm, the Judham, the Ghassan, the Tayy, the Quda'ah, and the Iyad. Their
+lineages were mixed up, and their groups intermingled. It is known that people
+(genealogists) differ with respect to each one of these families. This came about as
+the result of intermixture with non-Arabs. They did not pay any attention to
+preserving the (purity of) lineage of their families and groups. This 54 was done only
+by (true) Arabs. 'Umar said: "Study genealogy, and be not like the Nabataeans of the
+Mesopotamian lowlands. When one of them is asked about his origin, he says:
+'From such and such a village.'"55 Furthermore, the Arabs of the fertile fields were
+affected by the general human trend toward competition for the fat soil and the good
+pastures. This resulted in intermingling and much mixture of lineages. Even at the
+beginning of Islam, people occasionally referred to themselves by their places of
+residence. They referred to the Districts of Qinnasrin, of Damascus, or of the
+'Awisim (the border region of northern Syria). This custom was then transferred to
+Spain. It happened not because the Arabs rejected genealogical considerations, but
+because they acquired particular places of residence after the conquest. They
+eventually became known by their places of residence. These became a
+distinguishing mark, in addition to the pedigree, used by (the Arabs) to identify
+themselves in the presence of their amirs. Later on, sedentary (Arabs) mixed with
+Persians and other non-Arabs. Purity of lineage was completely lost, and its fruit,
+the group feeling, was lost and rejected. The tribes, then, disappeared and were
+wiped out, and with them, the group feeling was wiped out. But the (earlier
+situation) remained unchanged among the Bedouins.
+God inherits the earth and whomever is upon it.
+
+10. How lineages become confused.
+It is clear that a person of a certain descent may become attached to people
+of another descent, either because he feels well-disposed toward them, or because
+there exists an (old) alliance or client(-master) relationship, or yet because he had to
+flee from his own people by reason of some crime he committed. Such a person
+comes to be known as having the same descent as those (to whom he has attached
+himself) and is counted one of them with respect to the things that result from
+(common descent), such as affection, the rights and obligations concerning talion
+and blood money, and so on. When the things which result from (common) descent
+are there, it is as if (common descent) itself were there, because the only meaning of
+belonging to one or another group is that one is subject to its laws and conditions, as
+if one had come into close contact with it. In the course of time, the original descent
+is almost forgotten. Those who knew about it have passed away, and it is no longer
+known to most people. Family lines in this manner continually changed from one
+tribal group to another, and some people developed close contact with others (of a
+different descent). This happened both in pre-Islamic and in Islamic times, and
+between both Arabs and non-Arabs. If one studies the different opinions concerning
+the pedigree of the family of al-Mundhir 56 and others, the matter will become
+somewhat clearer.
+The affair of the Bajilah and 'Arfajah b. Harthamah is an(other) illustration.
+When 'Umar appointed 'Arfajah their governor, (the Bajilah) asked ('Umar) to
+withdraw him, saying that he was a nazif 57 among them, that is, one who had come
+to them from outside and attached himself to them. They asked that he appoint Jarir
+(instead). 'Umar asked 'Arfajah about this, and he replied: "They are right, O
+Commander of the Faithful. I am from the Azd. I shed blood among my people, and
+joined (the Bajilah)." 58 This shows how 'Arfajah had come to mix with the Bajilah,
+had become of their skin, and was known as one having the same descent as they, to
+the extent that he could eventually become a candidate for leadership over them,
+(and would have) had someone not remembered the genealogical ramifications. Had
+they overlooked it and had (still) more time elapsed, (his foreign origin) would have
+been forgotten, and he would have been considered one of them in every respect.
+This should be understood and pondered as one of God's ways with His
+creatures. Similar things occur frequently in our own times, and have always been
+frequent in former times.59
+
+11. Leadership over people who share in a given
+group feeling cannot be vested in those not
+of the same descent.60
+This is because leadership exists only through superiority, and superiority
+only through group feeling, as we have mentioned before.61 Leadership over people,
+therefore, must, of necessity, derive from a group feeling that is superior to each
+individual group feeling. Each individual group feeling that becomes aware of the
+superiority of the group feeling of the leader is ready to obey and follow (that
+leader).
+Now, a person who has become attached to people of a common descent
+usually does not share the group feeling that derives from their common descent. He
+is merely attached to them.62 The firmest connection he has with the group is as
+client and ally. This in no way guarantees him superiority over them. Assuming that
+he has developed close contact with them, that he has mixed with them, that the fact
+that he was originally merely attached to them has been forgotten, and that he has
+become one of their skin and is addressed as one having the same descent as they,
+how could he, or one of his forebears, have acquired leadership before that process
+had taken place, since leadership is transmitted in one particular branch that has
+been marked for superiority through group feeling? The fact that he was merely
+attached to the tribe was no doubt known at an earlier stage, and at that time
+prevented him (or rather, his forebears) from assuming leadership. Thus, it could not
+have been passed on by (a man) who was still merely attached (to the tribe).
+Leadership must of necessity be inherited from the person who is entitled to it, in
+accordance with the fact, which we have stated, that superiority results from group
+feeling.
+Many leaders of tribes or groups are eager to acquire certain pedigrees. They
+desire them because persons of that particular descent possessed some special virtue,
+such as bravery, or nobility, or fame, however this may have come about. They go
+after such a family and involve themselves in claims to belong to a branch of it.
+They do not realize that they thus bring suspicion upon themselves with regard to
+their leadership and nobility.
+Such things are frequently found among people at this time. Thus, the
+Zanatah in general claim to be Arabs. The Awlad Rabab, who are known as the
+Hijazis and who belong to the Banu 'Amir, one of the branches of the Zughbah,
+claim that they belong to the Banu Sulaym and, in particular, to the Sharid, a branch
+of the Bani Sulayin. Their ancestor is said to have joined the Banu 'Amir as a
+carpenter who made biers. He mixed with them and developed a close contact with
+them. Finally, he became their leader. He was called by them al-Hijazi.
+Similarly, the Banu 'Abd-al-Qawi b. al-'Abbas of the Tiljin claim to be
+descendants of al-'Abbas b. 'Abd-alMuttalib, because they want to have noble
+descent (from the family of the Prophet), and hold a mistaken opinion concerning
+the name of al-'Abbas b. 'Asiyah, the father of 'Abd-alQawi. It is not known that
+any 'Abbasid ever entered the Maghrib. From the beginning of the 'Abbasid dynasty
+and thereafter, the Maghrib was under the influence of the Idrisids and the
+'Ubaydid(-Fatimids), 'Alid enemies of the 'Abbasids. No 'Abbasid would have
+become attached to a Shi'ah.
+
+Similarly, the Zayyanids, the 'Abd-al-Wadid rulers (of Tlemcen), claim to be
+descendants of al-Qasim b. Idris, basing their claim on the fact that their family is
+known to have descended from al-Qasim. In their own Zanitah dialect, they are
+called Ait al-Qasim63 that is, Banu-l-Qasim. They claim that the Qasim (after whom
+they are named) was alQasim b. Idris, or al-Qasim b. Muhammad b. Idris. If that
+were true, all that can be said concerning that Qasim is that he fled his own realm
+and attached himself to (the Zanatah group of the 'Abd-al-Wad). How, then, could
+he have gained complete leadership over them in the desert? The story is an error
+resulting from the name of al-Qasim, which is very frequent among the Idrisids.
+(The Zayyanids), therefore, thought that their Qasim was an Idrisid. (But after all,)
+they hardly need so spurious a genealogy. They gained royal authority and power
+through their group feeling, not through claims to 'Alid, 'Abbasid, or other descent.
+
+============================================================
+
+ON THE THREE-GENERATION CYCLE (FROM CHAPTER III)
+========================================
+
+observers may require. The life of a Muslim lasts between sixty and seventy years.
+This is stated in the hadith 73 The natural life span of one hundred and twenty years
+is surpassed only on the occasion of rare configurations and extraordinary positions
+on the firmament. Such was the case with Noah and with a few (individuals) among
+the peoples of 'Ad and Thamud.
+The 74 same is the case with the life (span) of dynasties. Their durations may
+differ according to the conjunctions. However, as a rule no dynasty lasts beyond the
+life (span) of three generations.75 A generation is identical with the average duration
+of the life of a single individual, namely, forty years, (the time) required for growth
+to be completed and maturity reached. God said: "Until when he reaches his
+maturity and reaches the age of forty years...." 76 Therefore, we have said that the
+(average) duration of the life of an individual is identical with the duration of a
+generation.
+Our statement is confirmed by the significance of the (forty-year) sojourn of
+the children of Israel in the desert. 77 Those forty (years) were intended to bring
+about the disappearance of the generation then alive and the growth of another
+generation, (one) that had not witnessed and felt the humiliation (in Egypt). This is
+proof of the assumption that (a period of) forty years, which is identical with the
+(average) life of a single individual, must be considered the duration of a
+generation.
+We have stated 78 that the duration of the life of a dynasty does not as a rule
+extend beyond three generations. The first generation retains the desert qualities,
+desert toughness, and desert savagery. (Its members are used to) privation and to
+sharing their glory (with each other); they are brave and rapacious. Therefore, the
+strength of group feeling continues to be preserved among them. They are sharp and
+greatly feared. People submit to them.
+Under the influence of royal authority and a life of ease, the second
+generation changes from the desert attitude to sedentary culture, from privation to
+luxury and plenty, from a state in which everybody shared in the glory to one in
+which one man claims all the glory for himself while the others are too lazy to strive
+for (glory), and from proud superiority to humble subservience. Thus, the vigor of
+group feeling is broken to some extent. People become used to lowliness and
+obedience. But many of (the old virtues) remain in them, because they had had
+direct personal contact with the first generation and its conditions, and had observed
+with their own eyes its prowess and striving for glory and its intention to protect and
+defend (itself). They cannot give all of it up at once, although a good deal of it may
+
+go. They live in hope that the conditions that existed in the first generation may
+come back, or they live under the illusion that those conditions still exist.
+The third generation, then, has (completely) forgotten the period of desert
+life and toughness, as if it had never existed. They have lost (the taste for) the
+sweetness of fame and (for) group feeling, because they are dominated by force.
+Luxury reaches its peak among them, because they are so much given to a life of
+prosperity and ease. They become dependent on the dynasty and are like women and
+children who need to be defended (by someone else). Group feeling disappears
+completely. People forget to protect and defend themselves and to press their
+claims. With their emblems, apparel, horseback riding, and (fighting) skill,79 they
+deceive people and give them the wrong impression. For the most part, they are
+more cowardly than women upon their backs. When someone comes and demands
+something from them, they cannot repel him. The ruler, then, has need of other,
+brave people for his support. He takes many clients and followers. They help the
+dynasty to some degree, until God permits it to be destroyed, and it goes with
+everything it stands for.
+As one can see, we have there three generations. In the course of these three
+generations, the dynasty grows senile and is worn out. Therefore, it is in the fourth
+generation that (ancestral) prestige is destroyed. This was stated before in connection
+with (the subject) that glory and (ancestral) prestige are restricted to four
+generations.80 We have proved it with natural and evident arguments based on
+premises that we established before. The reader should consider that. As an impartial
+person, he should not disregard the truth.

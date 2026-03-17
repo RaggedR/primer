@@ -1,0 +1,116 @@
+ROSALIND FRANKLIN
+Selected Notebook Entries and Research Notes on DNA Structure (1951-1953)
+======================================================================
+
+NOTE ON THIS SOURCE: Rosalind Franklin's original lab notebooks are
+held in archives at Churchill College, Cambridge, and King's College
+London. The Wellcome Collection holds annotated copies as part of the
+"Codebreakers: Makers of Modern Genetics" collection. The National
+Library of Medicine (profiles.nlm.nih.gov/spotlight/kr) has digitized
+selections of her papers. Full transcriptions of the notebooks have
+not been published as standalone texts. What follows is a compilation
+of Franklin's own words as quoted in scholarly sources, reconstructing
+her progressive understanding of DNA's structure.
+
+----------------------------------------------------------------------
+SEMINAR NOTES, NOVEMBER 1951
+----------------------------------------------------------------------
+
+In November 1951, Franklin presented her X-ray diffraction findings
+at a seminar at King's College London (attended by James Watson). Her
+notes described DNA as:
+
+"a big helix or a smaller helix consisting of several chains"
+
+She further noted:
+
+"The phosphates are on the outside so that phosphate-phosphate
+inter-helical bonds are disrupted by water."
+
+Her notes were detailed, describing two forms of DNA (the A and B
+forms) and laying out their differences, including how the structure
+switches from A to B depending on the relative humidity in the sample
+chamber.
+
+----------------------------------------------------------------------
+PHOTOGRAPH 51, MAY 1952
+----------------------------------------------------------------------
+
+In May 1952, Franklin and her graduate student Raymond Gosling
+produced the famous X-ray diffraction photograph known as "Photo 51"
+-- the clearest image yet obtained of the B form of DNA. The
+characteristic X-shaped pattern in the photograph was strong evidence
+for a helical structure. Franklin's careful experimental technique
+produced what would become one of the most important photographs in
+the history of science.
+
+----------------------------------------------------------------------
+MRC REPORT, DECEMBER 1952
+----------------------------------------------------------------------
+
+In her section of the 1952 King's College Medical Research Council
+(MRC) report, Franklin provided quantitative measurements for the
+interphosphate distances and confirmed the external placement of the
+phosphate groups. She reported that the sugar-phosphate backbone forms
+the outside of the helix and that each chain repeats itself after one
+revolution in 34 Angstroms.
+
+This report was circulated internally and was seen by Max Perutz, who
+shared it with Watson and Crick -- providing them with crucial
+empirical measurements for their model-building.
+
+----------------------------------------------------------------------
+NOTEBOOK ENTRY, FEBRUARY 1953
+----------------------------------------------------------------------
+
+By late February 1953, Franklin's notes reveal that she had accepted
+that DNA had a helical structure, probably with two strands. She wrote:
+
+"Evidence for 2-chain (or 1-chain helix)"
+
+Her notes show she had also recognized that the component nucleotides
+on each strand were related in a way that made the strands
+complementary, though she had not yet determined that the two strands
+run in opposite directions (antiparallel).
+
+----------------------------------------------------------------------
+DRAFT MANUSCRIPT, MARCH 1953
+----------------------------------------------------------------------
+
+Franklin was preparing a manuscript on the B form of DNA when Watson
+and Crick's model was announced. She had independently concluded that
+DNA was a double helix with the phosphates on the outside.
+
+----------------------------------------------------------------------
+PUBLISHED PAPER: "Molecular Configuration in Sodium Thymonucleate"
+Nature, Vol. 171, pp. 740-741, April 25, 1953
+(Published alongside Watson & Crick's paper)
+----------------------------------------------------------------------
+
+Franklin and Gosling's paper appeared in the same issue of Nature as
+Watson and Crick's famous paper. Their paper presented X-ray
+diffraction data supporting the double helix model. They wrote:
+
+"Thus our general ideas are not inconsistent with the model proposed
+by Watson and Crick in the preceding communication."
+
+----------------------------------------------------------------------
+CONTEXT
+----------------------------------------------------------------------
+
+Franklin's meticulous experimental work -- particularly Photo 51 and
+her MRC report data -- provided essential evidence for the double
+helix model. Watson and Crick saw Photo 51 without Franklin's
+knowledge (shown to Watson by Maurice Wilkins in January 1953) and
+received her MRC report data through Max Perutz. Franklin was not
+informed that her data had been shared.
+
+Franklin died of ovarian cancer on April 16, 1958, at the age of 37,
+likely caused by her extensive exposure to X-ray radiation during her
+research. Watson, Crick, and Wilkins received the Nobel Prize in
+Physiology or Medicine in 1962. Nobel Prizes are not awarded
+posthumously.
+
+The notebooks remain a testament to her extraordinary experimental
+skill and the intellectual independence with which she approached one
+of the greatest scientific puzzles of the twentieth century.

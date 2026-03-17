@@ -1,0 +1,274 @@
+LEONHARD EULER
+Selected Letters from "Letters to a German Princess,
+on Different Subjects in Physics and Philosophy" (1768)
+Translated from the French by Henry Hunter, D.D. (1795)
+Source: MacTutor History of Mathematics, University of St Andrews
+(mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
+======================================================================
+
+[NOTE: Euler wrote 234 letters to Princess Friederike Charlotte of
+Brandenburg-Schwedt between 1760 and 1762. When he began writing,
+Euler was 53 years old and the Director of the Mathematics Section
+of the Prussian Academy of Sciences in Berlin. The Princess was
+fifteen. The letters were first published in three volumes (St
+Petersburg, 1768 and Frankfurt, 1774). What follows are three
+representative letters from the collection.]
+
+----------------------------------------------------------------------
+LETTER I: OF MAGNITUDE, OR EXTENSION
+Berlin, 19 April 1760
+----------------------------------------------------------------------
+
+The hope of having the honour to communicate in person to your
+highness my lessons in geometry becoming more and more distant, which
+is a very sensible mortification to me, I feel myself impelled to
+supply person instruction by writing, as far as the nature of the
+subjects will permit.
+
+I begin my attempt by assisting you to form a just idea of Magnitude;
+producing, as examples, the smallest as well as the greatest
+extensions of matter actually discoverable in the system of the
+universe. And, first, it is necessary to fix on some one determinate
+division of measure, obvious to the senses, and of which we have an
+exact idea, that of a foot, for instance. The quantity of this, once
+established, and rendered familiar to the eye, will enable us to form
+the idea of every other quantity, as to length, great or small; the
+former, by ascertaining how many feet it contains; and the latter, by
+ascertaining what part of a foot measures it. For, having the idea of
+a foot, we have that also of it's half, of it's quarter, of it's
+twelfth part, denominated an inch, of its hundredth, and of its
+thousandth part, which is so small as almost to escape sight. But it
+is to be remarked that there are animals, not of greater extension
+than this last subdivision of a foot, which, however, are composed of
+members through which the blood circulates, and which again contain
+other animals, as diminutive compared to them, as they are compared to
+us. Hence it may be concluded that animals exist, whose smallness
+eludes the imagination; and that these again are divisible into parts
+inconceivably smaller. Thus, for example, though the ten thousandth
+part of a foot be too small for sight, and, compared to us, ceases to
+be an object of sense, it nevertheless surpasses in magnitude certain
+complete animals; and must, to one of those animals, were it endowed
+with the power of perception, appear extremely great.
+
+Let us now make the transition from these minute quantities, in
+pursuing which the mind is lost, to those of the greatest magnitude.
+You have the idea of a mile; the distance from hence to Magdeburg is
+computed to be 18 miles; a mile contains 24,000 feet, and we employ
+it in measuring the distance of the different regions of the globe, in
+order to avoid numbers inconceivably great, in our calculations, which
+must be the case if we used foot instead of mile. A mile then,
+containing 24,000 feet, when it is said that Magdeburg is 18 miles
+from Berlin, the idea is much clearer, than if the distance of these
+two cities were said to be 432,000 feet: a number so great almost
+overwhelms the understanding. Again, we have a tolerably just idea of
+the magnitude of the earth, when we are told that this circumference
+is about 5,400 miles. And the diameter being a straight line passing
+through the centre, and terminating in opposite directions, in the
+surface of the sphere, which is the acknowledged figure of the Earth,
+for which reason also we give it the name of globe -- the diameter of
+this globe is calculated to be 1,720 miles; and this is the
+measurement which we employ for determining the greatest distances
+discoverable in the heavens. Of all the heavenly bodies the Moon is
+nearest to us, being distant only about 30 diameters of the earth,
+which amount to 51,600 miles, or 1,238,400,000 feet; but the first
+computation of 30 diameters of the earth is the clearest idea. The
+Sun is about 300 times farther from us than the moon, and when we say
+his distance is 9,000 diameters of the earth, we have a much clearer
+idea than if it were expressed in miles or in feet.
+
+You know that the earth performs a revolution round the sun in the
+space of a year, but that the sun remains fixed. Beside the earth,
+there are five other similar bodies, named planets, which revolve
+round the sun; two of them at smaller distances, Mercury and Venus,
+and three at greater, namely Mars, Jupiter and Saturn. All the other
+stars which we see, comets excepted, are called fixed; and their
+distance from us is incomparably greater than that of the sun. Their
+distances are undoubtedly very unequal, which is the reason that some
+of these bodies appear greater than others. But the nearest of them
+is, unquestionably, above 5,000 times more distant than the sun: its
+distance from us, accordingly, exceeds 45,000,000 diameters of the
+earth, that is 77,400,000,000 miles, and this again, multiplied by
+24,000, will give that prodigious distance in feet. And this, after
+all, is the distance only of those fixed stars which are the nearest
+to us; the most remote which we see are perhaps a hundred times
+farther off. It is probable, at the same time, that these stars taken
+together, constitute only a very small part of the whole universe,
+relatively to which these prodigious distances are not greater than a
+grain of sand compared with the earth. This immensity is the work of
+the Almighty, who governs the greatest bodies and the smallest.
+
+----------------------------------------------------------------------
+LETTER II: OF VELOCITY
+22 April 1760
+----------------------------------------------------------------------
+
+Flattering myself that your Highness may be pleased to accept the
+continuation of my instructions, a specimen of which I took the
+liberty of presenting to you in a former letter, I proceed to unfold
+the idea of velocity, which is a particular species of extension, and
+susceptible of increase and of diminution. When any substance is
+transported, that is, when it passes from one place to another, we
+ascribe to it a velocity. Let two persons, the one on horseback, the
+other on foot, proceed from Berlin to Magdeburg, we have, in both
+cases, the idea of a certain velocity; but it will be immediately
+affirmed, that the velocity of the former exceeds that of the latter.
+
+The question, then, is: Wherein consists the difference which we
+observe between these several degrees of velocity? The road is the
+same to him who rides and, to him who walks: but the difference
+evidently lies in the time which each employs in performing the same
+course. The velocity of the horseman is the greater of the two, as he
+employs less time on the road from Berlin to Magdeburg; and the
+velocity of the other is less, because he employs more time in
+travelling the same distance. Hence it is clear, that in order to
+form an accurate idea of velocity, we must attend at once to two kinds
+of quantity: namely to the length of the road, and to the time
+employed. A body, therefore, which in the same time passes through
+double the space which another body does, has double its velocity; if,
+in the same time, it passes through thrice the distance, it is said to
+have thrice the velocity, and so on. We shall comprehend, then, the
+velocity of a body, when we are informed of the space through which it
+passes in a certain quantity of time.
+
+In order to know the velocity of my pace, when I walk to Lytzow, I
+have observed that I make 120 steps in a minute, and one of my steps
+is equal to two feet and a half. My velocity then, is such, as to
+carry me 300 feet in a minute, and a space sixty times greater, or
+18,000 feet in an hour, which however does not amount to a mile, for
+this, being 24,000 feet, would require an hour and 20 minutes. Were
+I, therefore, to walk from hence to Magdeburg, it would take exactly
+24 hours. This conveys an accurate idea of the velocity with which I
+am able to walk. Now it is easy to comprehend what is meant by a
+greater or less velocity. For if a courier were to go from hence to
+Magdeburg in 12 hours, his velocity would be the double of mine; if
+he went in eight hours, his velocity would be triple. We remark a
+very great difference in the degrees of velocity. The tortoise
+furnishes an example of a velocity extremely small. If she advances
+only one foot in a minute, her velocity is 300 times less than mine,
+for I advance 300 feet in the same time. We are likewise acquainted
+with velocities much greater. That of the wind admits of great
+variation. A moderate wind goes at the rate of 10 feet in a second, or
+600 feet in a minute; its velocity therefore is the double of mine. A
+wind that runs 20 feet in a second, or 1200 in a minute, is rather
+strong; and a wind which flies at the rate of 50 feet in a second is
+extremely violent, though its velocity is only ten times greater than
+mine, and would take two hours and twenty-four minutes to blow from
+hence to Magdeburg.
+
+The velocity of sound comes next, which moves 1000 feet in a second,
+and 60,000 in a minute. This velocity therefore, is 200 times greater
+than that of my pace; and were a cannon to be fired at Magdeburg, if
+the report could be heard at Berlin, it would arrive there in seven
+minutes. A cannon-ball moves with nearly the same velocity; but when
+the piece is loaded to the utmost, the ball is supposed capable of
+flying 2,000 feet in a second, or 120,000 in a minute. This velocity
+appears prodigious, though it is only 400 times greater than that of
+my pace in walking to Lytzow; it is at the same time the greatest
+velocity known upon earth. But there are in the heavens velocities far
+greater, though their motion appears to be extremely deliberate. You
+know that the earth turns round on its axis in 24 hours: every point
+of it's surface, then, under the equator, moves 5,400 miles in 24
+hours, while I am able to get through only 18 miles. Its velocity is
+accordingly above 300 times greater than mine, and less notwithstanding
+than the greatest possible velocity of a cannon-ball. The earth
+performs its revolution round the sun in the space of a year,
+proceeding at the rate of 128,250 miles in 24 hours. Its velocity,
+therefore, is 18 times more rapid than that of a cannon ball. The
+greatest velocity of which we have any knowledge is, undoubtedly, that
+of light, which moves 2,000,000 of miles every minute, and exceeds
+the velocity of a cannon ball 4,000,000 times.
+
+----------------------------------------------------------------------
+LETTER III: OF THE PLEASURE DERIVED FROM FINE MUSIC
+6 May 1760
+----------------------------------------------------------------------
+
+It is a question as important as curious, whence is it that a fine
+piece of music excites a sentiment of pleasure? The learned differ on
+this subject. Some pretend that it is mere caprice, and that the
+pleasure produced by music is not founded on reason, because what is
+grateful to one is disgusting to another. Far from deciding the
+question, this renders it only more complicated. The very point to be
+determined is, how comes it that the same piece of music produces
+effects so different, since all admit that nothing happens without
+reason? Others maintain that the pleasure derived from fine music
+consists in the perception of the order which pervades it.
+
+This opinion appears at first sight sufficiently well founded, and
+merits a more attentive examination. Music presents objects of two
+kinds, in which order is essential. The one relates to the difference
+of the sharp or flat tones; and you will recollect, that it consists
+in the number of vibrations performed by each note in the same time.
+This difference, which is perceptible between the quickness of the
+vibrations of all sounds, is what is properly called harmony. The
+effect of a piece of music, of which we feel the relations of the
+vibrations of all the notes that compose it, is the production of
+harmony. Thus, two notes which differ an octave excite a perception of
+1 to 2; a fifth, of that of 2 to 3; and a greater third, of that of
+4 to 5.
+
+We comprehend, then, the order which is found in harmony, when we
+know all the relations which pervade the notes of which it is
+composed; and it is the perception of the ear which leads to this
+knowledge. This perception, more or less delicate, determines why the
+same harmony is felt by one, and not at all by another, especially
+when the relations of the notes are expressed by somewhat greater
+numbers. Music contains, besides harmony, another object equally
+susceptible of order, namely, the measure, by which we assign to every
+note a certain duration; and the perception of the measure consists in
+the knowledge of this duration, and of the relations which result from
+it.
+
+The drum and tymbal furnish the example of a music in which measure
+alone takes place, as all the notes are equal among themselves, and
+then there is no harmony. There is likewise a music consisting wholly
+in harmony, to the exclusion of measure. This music is the choral, in
+which all the notes are of the same duration; but perfect music unites
+harmony and measure. Thus the connoisseur who hears a piece of music,
+and who comprehends, by the acute perception of his ear, all the
+proportions on which both the harmony and the measure are founded, has
+certainly the most perfect knowledge possible of that music: while
+another, who perceives these proportions only in part, or not at all,
+understands nothing of the matter, or possesses at most a very slender
+knowledge of it. But the sentiment of pleasure excited by fine music,
+must not be confounded with the knowledge of which I have been
+speaking, though it may be confidently affirmed, that a piece of music
+cannot produce any, unless the relations of it are perceived. For this
+knowledge alone is not sufficient to excite the sentiment of pleasure;
+something more is wanting, which no one hitherto has unfolded.
+
+In order to be convinced that the perception alone of all the
+proportions of a piece of music is insufficient to produce pleasure,
+you have only to consider music of a very simple construction, such as
+goes in octaves alone, in which the perception of proportions is
+undoubtedly the easiest. Such music would be far from conveying
+pleasure, though you might have the most perfect knowledge of it. It
+will be said then that pleasure requires a knowledge not quite so
+easily attained, a knowledge that occasions some trouble; which must,
+if I may use the expression, cost us something. But, in my opinion,
+neither is this a satisfactory solution. A dissonance, the relations
+of which are expressed by the highest numbers, is caught with more
+difficulty; a series of dissonances, however, following without choice,
+and without design, cannot please. The composer must therefore have
+pursued, in his work, a certain plan, executed in real and perceptible
+proportions.
+
+Then a connoisseur on hearing such a piece, and comprehending, beside
+the proportions, the very plan and design which the composer had in
+view, will feel that satisfaction which constitutes the pleasure
+procured by exquisite music to an ear accustomed to relish the
+beauties and delicacies of that enchanting art. It arises, then, from
+divining in some measure the views and feelings of the composer, whose
+execution, when fortunate, fills the soul with an agreeable sensation.
+It is a satisfaction somewhat similar to that which is derived from the
+sight of a well-acted pantomime, in which you may conjecture, by the
+gesture and action, the sentiments and dialogue intended to be
+expressed, and which presents, besides, a well-digested plan. The
+enigma of the chimney-sweeper, which was so diverting to your
+highness, furnishes me with another excellent comparison. When you can
+guess the sense, and discover that it is perfectly expressed in the
+proposition of the enigma, you feel a very sensible pleasure on making
+the discovery; but insipid and incongruous enigmas produce none. Such
+are, if I may be permitted to judge, the true principles on which
+decisions respecting the excellency of musical compositions are
+founded.
