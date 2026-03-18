@@ -169,64 +169,15 @@ def parse_llm_json(text: str) -> dict | None:
 
 
 def normalize_score(parsed: dict) -> tuple[float, bool, str]:
-    """Normalize any of the 5 guard JSON formats to (score 0-100, opened, reasoning).
+    """Extract score from standardized guard JSON.
 
-    Formats encountered:
-      1. {"position_shift": 0-10}                                    (sources 1-20)
-      2. {"persuasion_score": 0-100, "door_open": bool, ...}         (sources 21-28)
-      3. {"persuasion_level": 0-10, "door_status": "locked|unlocked"}(sources 29-38)
-      4. {"position_shift": 0.0-1.0, "reason": "..."}               (sources 39-47)
-      5. {"position_shift": 0-10, "reasoning": "..."}                (sources 48-63)
+    All guards use: {"persuasion_score": 0-100, "door_open": bool, "reasoning": "..."}
+    Door opens at persuasion_score >= 75.
     """
-    reasoning = parsed.get("reasoning", parsed.get("reason", ""))
-    if isinstance(reasoning, dict):
-        reasoning = str(reasoning)
-
-    # Format 2: persuasion_score (0-100) with door_open
-    if "persuasion_score" in parsed:
-        score = float(parsed["persuasion_score"])
-        opened = bool(parsed.get("door_open", score >= 75))
-        return score, opened, reasoning
-
-    # Format 3: persuasion_level (0-10) with door_status
-    if "persuasion_level" in parsed:
-        level = float(parsed["persuasion_level"])
-        score = level * 10
-        opened = parsed.get("door_status", "locked") == "unlocked"
-        if not opened:
-            opened = level >= 8  # threshold stated in war guards
-        return score, opened, reasoning
-
-    # Formats 1, 4, 5: position_shift (various scales)
-    if "position_shift" in parsed:
-        val = parsed["position_shift"]
-        # It might be a string description (war format reuses the key)
-        if isinstance(val, str):
-            return 0.0, False, val
-
-        val = float(val)
-        if val <= 1.0 and val != 0.0 and val != 1.0:
-            # Float 0.0-1.0 scale (daily-life)
-            score = val * 100
-        elif val <= 10:
-            # Integer 0-10 scale
-            score = val * 10
-        else:
-            score = val  # already 0-100?
-
-        opened = score >= 70
-        return score, opened, reasoning
-
-    # Fallback: try any numeric-looking key
-    for key in parsed:
-        try:
-            val = float(parsed[key])
-            if 0 <= val <= 100:
-                return val if val > 10 else val * 10, val >= 7 if val <= 10 else val >= 70, reasoning
-        except (ValueError, TypeError):
-            continue
-
-    return 0.0, False, reasoning
+    reasoning = str(parsed.get("reasoning", ""))
+    score = float(parsed.get("persuasion_score", 0))
+    opened = bool(parsed.get("door_open", score >= 75))
+    return score, opened, reasoning
 
 
 # ── Ollama API ──────────────────────────────────────────────────────────────
@@ -272,8 +223,9 @@ STUDENT_SYSTEM = (
 # Nudge prompt for when the guard forgets to append JSON
 SCORE_NUDGE = (
     "Now rate that student's argument. Respond with ONLY a JSON object, "
-    "nothing else: {\"position_shift\": <0-10>} where 0 is unmoved and "
-    "10 is fully persuaded."
+    "nothing else: {\"persuasion_score\": N, \"door_open\": BOOL, "
+    "\"reasoning\": \"...\"} where N is 0-100 and door_open is true "
+    "when N >= 75."
 )
 
 
