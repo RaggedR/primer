@@ -1,0 +1,500 @@
+The Code of Hammurabi
+Translated by L. W. King
+(~1754 BCE)
+
+Source: Exploring Ancient World Cultures, University of Evansville
+via California State University, Fresno
+https://zimmer.fresnostate.edu/~mariterel/code_of_hammurabi.htm
+
+---
+
+NOTE FOR STUDENTS
+
+The Code of Hammurabi is one of the oldest surviving legal codes,
+inscribed on a black stone stele now in the Louvre, Paris. It contains
+282 laws governing Babylonian society. What makes this text remarkable
+for studying persuasion and power is its explicit three-tier class
+system:
+
+  - AWILUM (free man, gentleman, full citizen)
+  - MUSHKENUM (freed man, commoner, a lower-status free person)
+  - WARDUM (slave, property of another person)
+
+The same crime or injury receives drastically different punishment
+depending on the class of the victim and the class of the offender.
+Compare laws 196-201 carefully: an eye for an eye applies only
+between equals. When a gentleman injures a commoner, the penalty
+is a fine. When a gentleman injures a slave, the penalty is
+compensation to the owner -- the slave is property, not a person
+with standing.
+
+The excerpts below are selected for three themes: property and
+commerce, bodily injury and class, and family and status. The
+prologue and epilogue show how Hammurabi frames his authority.
+
+---
+
+PROLOGUE
+
+When Anu the Sublime, King of the Anunaki, and Bel, the lord of
+Heaven and earth, who decreed the fate of the land, assigned to
+Marduk, the over-ruling son of Ea, God of righteousness, dominion
+over earthly man, and made him great among the Igigi, they called
+Babylon by his illustrious name, made it great on earth, and founded
+an everlasting kingdom in it, whose foundations are laid so solidly
+as those of heaven and earth; then Anu and Bel called by name me,
+Hammurabi, the exalted prince, who feared God, to bring about the
+rule of righteousness in the land, to destroy the wicked and the
+evil-doers; so that the strong should not harm the weak; so that I
+should rule over the black-headed people like Shamash, and enlighten
+the land, to further the well-being of mankind.
+
+[...]
+
+When Marduk sent me to rule over men, to give the protection of
+right to the land, I did right and righteousness in ..., and brought
+about the well-being of the oppressed.
+
+---
+
+THE CODE OF LAWS
+
+I. JUSTICE AND FALSE ACCUSATION
+
+2. If any one bring an accusation against a man, and the accused go
+to the river and leap into the river, if he sink in the river his
+accuser shall take possession of his house. But if the river prove
+that the accused is not guilty, and he escape unhurt, then he who had
+brought the accusation shall be put to death, while he who leaped
+into the river shall take possession of the house that had belonged
+to his accuser.
+
+3. If any one bring an accusation of any crime before the elders,
+and does not prove what he has charged, he shall, if it be a capital
+offense charged, be put to death.
+
+4. If he satisfy the elders to impose a fine of grain or money, he
+shall receive the fine that the action produces.
+
+5. If a judge try a case, reach a decision, and present his judgment
+in writing; if later error shall appear in his decision, and it be
+through his own fault, then he shall pay twelve times the fine set
+by him in the case, and he shall be publicly removed from the
+judge's bench, and never again shall he sit there to render judgement.
+
+---
+
+II. PROPERTY, THEFT, AND COMMERCE
+
+6. If any one steal the property of a temple or of the court, he
+shall be put to death, and also the one who receives the stolen thing
+from him shall be put to death.
+
+7. If any one buy from the son or the slave of another man, without
+witnesses or a contract, silver or gold, a male or female slave, an
+ox or a sheep, an ass or anything, or if he take it in charge, he is
+considered a thief and shall be put to death.
+
+8. If any one steal cattle or sheep, or an ass, or a pig or a goat,
+if it belong to a god or to the court, the thief shall pay
+thirty-fold therefore; if they belonged to a freed man of the king he
+shall pay tenfold; if the thief has nothing with which to pay he
+shall be put to death.
+
+    [NOTE: Law 8 already shows class gradation in property crime.
+    Stealing from a temple or court = 30x restitution. Stealing from
+    a freed man = 10x. Inability to pay = death. The law protects
+    divine and royal property most fiercely.]
+
+14. If any one steal the minor son of another, he shall be put to
+death.
+
+16. If any one receive into his house a runaway male or female slave
+of the court, or of a freedman, and does not bring it out at the
+public proclamation of the major domus, the master of the house shall
+be put to death.
+
+19. If he hold the slaves in his house, and they are caught there, he
+shall be put to death.
+
+21. If any one break a hole into a house (break in to steal), he
+shall be put to death before that hole and be buried.
+
+22. If any one is committing a robbery and is caught, then he shall
+be put to death.
+
+23. If the robber is not caught, then shall he who was robbed claim
+under oath the amount of his loss; then shall the community, and ...
+on whose ground and territory and in whose domain it was compensate
+him for the goods stolen.
+
+36. The field, garden, and house of a chieftain, of a man, or of one
+subject to quit-rent, can not be sold.
+
+37. If any one buy the field, garden, and house of a chieftain, man,
+or one subject to quit-rent, his contract tablet of sale shall be
+broken (declared invalid) and he loses his money. The field, garden,
+and house return to their owners.
+
+43. If he do not till the field, but let it lie fallow, he shall give
+grain like his neighbor's to the owner of the field, and the field
+which he let lie fallow he must plow and sow and return to its owner.
+
+44. If any one take over a waste-lying field to make it arable, but
+is lazy, and does not make it arable, he shall plow the fallow field
+in the fourth year, harrow it and till it, and give it back to its
+owner, and for each ten gan (a measure of area) ten gur of grain
+shall be paid.
+
+53. If any one be too lazy to keep his dam in proper condition, and
+does not so keep it; if then the dam break and all the fields be
+flooded, then shall he in whose dam the break occurred be sold for
+money, and the money shall replace the corn which he has caused to
+be ruined.
+
+54. If he be not able to replace the corn, then he and his
+possessions shall be divided among the farmers whose corn he has
+flooded.
+
+---
+
+III. DEBT, COMMERCE, AND AGENTS
+
+102. If a merchant entrust money to an agent (broker) for some
+investment, and the broker suffer a loss in the place to which he
+goes, he shall make good the capital to the merchant.
+
+103. If, while on the journey, an enemy take away from him anything
+that he had, the broker shall swear by God and be free of obligation.
+
+115. If any one have a claim for corn or money upon another and
+imprison him; if the prisoner die in prison a natural death, the case
+shall go no further.
+
+116. If the prisoner die in prison from blows or maltreatment, the
+master of the prisoner shall convict the merchant before the judge.
+If he was a free-born man, the son of the merchant shall be put to
+death; if it was a slave, he shall pay one-third of a mina of gold,
+and all that the master of the prisoner gave he shall forfeit.
+
+    [NOTE: Law 116 is a key class-distinction law. Death of a
+    free-born prisoner from mistreatment = the merchant's son dies.
+    Death of a slave prisoner = a fine. The free man's life demands
+    a life in return; the slave's life has a price tag.]
+
+117. If any one fail to meet a claim for debt, and sell himself, his
+wife, his son, and daughter for money or give them away to forced
+labor: they shall work for three years in the house of the man who
+bought them, or the proprietor, and in the fourth year they shall be
+set free.
+
+118. If he give a male or female slave away for forced labor, and the
+merchant sublease them, or sell them for money, no objection can be
+raised.
+
+119. If any one fail to meet a claim for debt, and he sell the maid
+servant who has borne him children, for money, the money which the
+merchant has paid shall be repaid to him by the owner of the slave
+and she shall be freed.
+
+122. If any one give another silver, gold, or anything else to keep,
+he shall show everything to some witness, draw up a contract, and
+then hand it over for safe keeping.
+
+---
+
+IV. FAMILY, MARRIAGE, AND STATUS
+
+127. If any one "point the finger" (slander) at a sister of a god or
+the wife of any one, and can not prove it, this man shall be taken
+before the judges and his brow shall be marked. (by cutting the skin,
+or perhaps hair.)
+
+128. If a man take a woman to wife, but have no intercourse with her,
+this woman is no wife to him.
+
+129. If a man's wife be surprised (in flagrante delicto) with another
+man, both shall be tied and thrown into the water, but the husband may
+pardon his wife and the king his slaves.
+
+130. If a man violate the wife (betrothed or child-wife) of another
+man, who has never known a man, and still lives in her father's
+house, and sleep with her and be surprised, this man shall be put to
+death, but the wife is blameless.
+
+131. If a man bring a charge against one's wife, but she is not
+surprised with another man, she must take an oath and then may return
+to her house.
+
+132. If the "finger is pointed" at a man's wife about another man,
+but she is not caught sleeping with the other man, she shall jump
+into the river for her husband.
+
+134. If any one be captured in war and there is not sustenance in his
+house, if then his wife go to another house this woman shall be held
+blameless.
+
+135. If a man be taken prisoner in war and there be no sustenance in
+his house and his wife go to another house and bear children; and if
+later her husband return and come to his home: then this wife shall
+return to her husband, but the children follow their father.
+
+137. If a man wish to separate from a woman who has borne him
+children, or from his wife who has borne him children: then he shall
+give that wife her dowry, and a part of the usufruct of field,
+garden, and property, so that she can rear her children. When she has
+brought up her children, a portion of all that is given to the
+children, equal as that of one son, shall be given to her. She may
+then marry the man of her heart.
+
+141. If a man's wife, who lives in his house, wishes to leave it,
+plunges into debt, tries to ruin her house, neglects her husband, and
+is judicially convicted: if her husband offer her release, she may go
+on her way, and he gives her nothing as a gift of release. If her
+husband does not wish to release her, and if he take another wife,
+she shall remain as servant in her husband's house.
+
+145. If a man take a wife, and she bear him no children, and he
+intend to take another wife: if he take this second wife, and bring
+her into the house, this second wife shall not be allowed equality
+with his wife.
+
+154. If a man be guilty of incest with his daughter, he shall be
+driven from the place (exiled).
+
+155. If a man betroth a girl to his son, and his son have intercourse
+with her, but he (the father) afterward defile her, and be surprised,
+then he shall be bound and cast into the water (drowned).
+
+156. If a man betroth a girl to his son, but his son has not known
+her, and if then he defile her, he shall pay her half a gold mina,
+and compensate her for all that she brought out of her father's
+house. She may marry the man of her heart.
+
+157. If any one be guilty of incest with his mother after his father,
+both shall be burned.
+
+167. If a man marry a wife and she bear him children: if this wife
+die and he then take another wife and she bear him children: if then
+the father die, the sons must not partition the estate according to
+the mothers, they shall divide the dowries of their mothers only in
+this way; the paternal estate they shall divide equally with one
+another.
+
+168. If a man wish to put his son out of his house, and declare
+before the judge: "I want to put my son out," then the judge shall
+examine into his reasons. If the son be guilty of no great fault, for
+which he can be rightfully put out, the father shall not put him out.
+
+169. If he be guilty of a grave fault, which should rightfully
+deprive him of the filial relationship, the father shall forgive him
+the first time; but if he be guilty of a grave fault a second time
+the father may deprive his son of all filial relation.
+
+175. If a State slave or the slave of a freed man marry the daughter
+of a free man, and children are born, the master of the slave shall
+have no right to enslave the children of the free.
+
+177. If a widow, whose children are not grown, wishes to enter
+another house (remarry), she shall not enter it without the knowledge
+of the judge. If she enter another house the judge shall examine the
+state of the house of her first husband. Then the house of her first
+husband shall be entrusted to the second husband and the woman herself
+as managers. And a record must be made thereof. She shall keep the
+house in order, bring up the children, and not sell the house-hold
+utensils. He who buys the utensils of the children of a widow shall
+lose his money, and the goods shall return to their owners.
+
+---
+
+V. INJURY AND CLASS: THE GRADUATED PUNISHMENTS
+
+    [NOTE: This is the heart of the class system in Hammurabi's Code.
+    Read these laws as a set. The principle of "an eye for an eye"
+    (lex talionis) applies ONLY between social equals. When the
+    victim is of lower status, the punishment converts from bodily
+    harm to a monetary fine. When the victim is a slave, the fine
+    is paid to the owner -- the slave has no legal personhood.]
+
+192. If a son of a paramour or a prostitute say to his adoptive
+father or mother: "You are not my father, or my mother," his tongue
+shall be cut off.
+
+193. If the son of a paramour or a prostitute desire his father's
+house, and desert his adoptive father and adoptive mother, and goes
+to his father's house, then shall his eye be put out.
+
+195. If a son strike his father, his hands shall be hewn off.
+
+--- INJURY BETWEEN EQUALS (AWILUM vs. AWILUM) ---
+
+196. If a man put out the eye of another man, his eye shall be put
+out. [An eye for an eye.]
+
+197. If he break another man's bone, his bone shall be broken.
+
+200. If a man knock out the teeth of his equal, his teeth shall be
+knocked out.
+
+--- INJURY TO A COMMONER (AWILUM vs. MUSHKENUM) ---
+
+198. If he put out the eye of a freed man, or break the bone of a
+freed man, he shall pay one gold mina.
+
+201. If he knock out the teeth of a freed man, he shall pay one-third
+of a gold mina.
+
+--- INJURY TO A SLAVE (AWILUM vs. WARDUM) ---
+
+199. If he put out the eye of a man's slave, or break the bone of a
+man's slave, he shall pay one-half of its value.
+
+    [NOTE: "Its value" -- the slave is referred to as property. The
+    compensation goes to the slave's owner, not to the slave.]
+
+--- INJURY TO WOMEN ---
+
+209. If a man strike a free-born woman so that she lose her unborn
+child, he shall pay ten shekels for her loss.
+
+210. If the woman die, his daughter shall be put to death.
+
+    [NOTE: The vicarious punishment of law 210 -- the offender's
+    daughter dies for his crime -- reveals another dimension of the
+    system. Women and children are extensions of the patriarch.
+    Justice operates between households, not individuals.]
+
+---
+
+VI. PROFESSIONAL LIABILITY AND CLASS
+
+215. If a physician make a large incision with an operating knife and
+cure it, or if he open a tumor (over the eye) with an operating
+knife, and saves the eye, he shall receive ten shekels in money.
+
+216. If the patient be a freed man, he receives five shekels.
+
+    [NOTE: The physician's fee is halved for treating a commoner.
+    The same surgery, the same skill -- but the patient's status
+    determines the price.]
+
+218. If a physician make a large incision with the operating knife,
+and kill him, or open a tumor with the operating knife, and cut out
+the eye, his hands shall be cut off.
+
+219. If a physician make a large incision in the slave of a freed
+man, and kill him, he shall replace the slave with another slave.
+
+    [NOTE: Kill a free man through malpractice = lose your hands.
+    Kill a slave through malpractice = replace the property. The
+    slave's life is a commodity with a replacement value.]
+
+---
+
+VII. BUILDERS, BOATS, AND STRICT LIABILITY
+
+229. If a builder build a house for some one, and does not construct
+it properly, and the house which he built fall in and kill its owner,
+then that builder shall be put to death.
+
+230. If it kill the son of the owner the son of that builder shall be
+put to death.
+
+    [NOTE: Vicarious punishment again. The builder's son dies for the
+    builder's negligence -- because the loss is measured in terms of
+    whose son was lost, not in terms of individual guilt.]
+
+235. If a shipbuilder build a boat for some one, and do not make it
+tight, if during that same year that boat is sent away and suffers
+injury, the shipbuilder shall take the boat apart and put it together
+tight at his own expense. The tight boat he shall give to the boat
+owner.
+
+---
+
+VIII. SLAVES AND FREEDOM
+
+110. If a "sister of a god" open a tavern, or enter a tavern to
+drink, then shall this woman be burned to death.
+
+    [NOTE: Included here not for its content about taverns but as an
+    example of how religious status creates its own hierarchy of
+    obligation and punishment.]
+
+175. If a State slave or the slave of a freed man marry the daughter
+of a free man, and children are born, the master of the slave shall
+have no right to enslave the children of the free.
+
+    [NOTE: A rare protection -- the free mother's status passes to
+    her children, even when the father is a slave. Status follows
+    the mother in this case.]
+
+---
+
+EPILOGUE (excerpts)
+
+Laws of justice which Hammurabi, the wise king, established. A
+righteous law, and pious statute did he teach the land. Hammurabi,
+the protecting king am I. I have not withdrawn myself from the men,
+whom Bel gave to me, the rule over whom Marduk gave to me, I was not
+negligent, but I made them a peaceful abiding-place. I expounded all
+great difficulties, I made the light shine upon them. With the mighty
+weapons which Zamama and Ishtar entrusted to me, with the keen vision
+with which Ea endowed me, with the wisdom that Marduk gave me, I have
+uprooted the enemy above and below (in north and south), subdued the
+earth, brought prosperity to the land, guaranteed security to the
+inhabitants in their homes; a disturber was not permitted. The great
+gods have called me, I am the salvation-bearing shepherd, whose staff
+is straight, the good shadow that is spread over my city; on my
+breast I cherish the inhabitants of the land of Sumer and Akkad; in
+my shelter I have let them repose in peace; in my deep wisdom have I
+enclosed them. That the strong might not injure the weak, in order to
+protect the widows and orphans, I have in Babylon the city where Anu
+and Bel raise high their head, in E-Sagil, the Temple, whose
+foundations stand firm as heaven and earth, in order to bespeak
+justice in the land, to settle all disputes, and heal all injuries,
+set up these my precious words, written upon my memorial stone, before
+the image of me, as king of righteousness.
+
+[...]
+
+If a succeeding ruler considers my words, which I have written in
+this my inscription, if he do not annul my law, nor corrupt my words,
+nor change my monument, then may Shamash lengthen that king's reign,
+as he has that of me, the king of righteousness, that he may reign in
+righteousness over his subjects. If this ruler do not esteem my words,
+which I have written in my inscription, if he despise my curses, and
+fear not the curse of God, if he destroy the law which I have given,
+corrupt my words, change my monument, efface my name, write his name
+there, or on account of the curses commission another so to do, that
+man, whether king or ruler, patesi, or commoner, no matter what he
+be, may the great God (Anu), the Father of the gods, who has ordered
+my rule, withdraw from him the glory of royalty, break his scepter,
+curse his destiny.
+
+---
+
+QUESTIONS FOR DISCUSSION
+
+1. Laws 196-201 lay out the "eye for an eye" principle with class
+   modifications. Who benefits from this system? Who is harmed? Is a
+   system that explicitly prices human worth by class more honest or
+   more unjust than one that claims equality but practices inequality?
+
+2. In law 116, the death of a free prisoner demands the death of the
+   merchant's son, while the death of a slave prisoner demands a
+   fine. What does this tell us about who counts as a "person" in
+   Babylonian law?
+
+3. The prologue claims Hammurabi rules "so that the strong should not
+   harm the weak." Do the laws themselves fulfill this promise? For
+   whom?
+
+4. Compare the vicarious punishments (laws 210, 230) with modern
+   legal principles. Why might a society punish the offender's family
+   member rather than the offender? What assumptions about individual
+   identity does this reveal?
+
+5. Law 175 protects the children of a free woman married to a slave
+   from enslavement. Why might this exception exist? What does it
+   suggest about the boundaries of the class system?

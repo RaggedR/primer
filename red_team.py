@@ -37,12 +37,15 @@ class Guard:
     difficulty: str
     system_prompt: str
 
+SOURCES_DIR = PRIMER_DIR / "sources"
+
 @dataclass
 class Source:
     num: int
     title: str
     description: str   # full text from SOURCES.md
     difficulty: str
+    full_text: str = ""  # actual primary source text, if available
 
 @dataclass
 class Result:
@@ -127,6 +130,19 @@ def parse_sources() -> dict[int, Source]:
 
         sources[num] = Source(num=num, title=title, description=description,
                               difficulty=difficulty)
+
+    # Load full source texts where available
+    if SOURCES_DIR.exists():
+        for path in SOURCES_DIR.glob("*.txt"):
+            m = re.match(r"(\d+)-", path.name)
+            if m:
+                num = int(m.group(1))
+                if num in sources:
+                    text = path.read_text()
+                    # Cap at ~4000 chars to fit in context window of small models
+                    if len(text) > 4000:
+                        text = text[:4000] + "\n\n[... truncated ...]"
+                    sources[num].full_text = text
 
     return sources
 
@@ -269,10 +285,19 @@ def run_one(source: Source, guard: Guard, url: str, model: str) -> Result:
     )
 
     try:
-        # Student turn: generate argument from source description
+        # Build student context: use full source text if available, else description
+        if source.full_text:
+            student_context = (
+                f"SOURCE DESCRIPTION: {source.description}\n\n"
+                f"PRIMARY SOURCE TEXT:\n{source.full_text}"
+            )
+        else:
+            student_context = source.description
+
+        # Student turn: generate argument from source material
         student_arg = call_ollama(
             url, model,
-            messages=_msgs(source.description, STUDENT_SYSTEM),
+            messages=_msgs(student_context, STUDENT_SYSTEM),
             temp=0.7,
         )
         result.student_argument = student_arg
